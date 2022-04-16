@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3d130d"
+    tools:context=".HDDSSDTechnology.HddSize">
+
+    <LinearLayout
+        android:layout_margin="2dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.CardView
+            android:backgroundTint="#f1f1f1"
+            app:cardCornerRadius="5dp"
+            android:layout_margin="4dp"
+            app:cardElevation="8dp"
+            android:elevation="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:elevation="10dp"
+                android:padding="5dp"
+                android:background="#501f1d"
+                android:layout_margin="2dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textColor="#f5f5f5"
+                android:textStyle="bold"
+                android:text="HDD FormFactor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginBottom="5dp"
+                android:padding="5dp"
+                android:fontFamily="sans-serif"
+                android:layout_marginTop="50dp"
+                android:textAlignment="textStart"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:textSize="17sp"
+                android:textColor="#333333"
+                android:textStyle="normal"
+                android:text="Once you’ve decided between HDD and SSD, you have to pick a form factor. Thankfully, there are only two choices and the right choice is mostly dictated by your current setup.\n\n
+Data drives come in two form factors: the 3.5-inch drive and the 2.5-inch drive.\n\n
+In traditional HDDs, data is stored on spinning metal disks, which means that more disks are needed for expanded data capacity. For this reason, desktop HDDs tend to be 3.5-inches with a general maximum capacity of 12TB while laptop HDDs tend to be 2.5-inches with a general maximum capacity of 4TB.\n\n
+On the other hand, SSDs can be made smaller because they don’t require movable parts. As such, most SSDs come in the 2.5-inch form factor. What if you need to fit an SSD into a 3.5-inch connector? Adapters are available.\n\n
+As far as connections go, most modern consumer drives (both HDD and SSD) use SATA connectors. Older HDDs that were created before the SATA standard most likely use IDE connectors instead. And if you’re buying an external drive, it will connect to your system through a USB port.
+"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+
+        </android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

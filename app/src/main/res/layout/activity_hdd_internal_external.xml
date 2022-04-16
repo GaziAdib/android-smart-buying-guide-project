@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3d130d"
+    tools:context=".HDDSSDTechnology.HddInternalExternal">
+
+    <LinearLayout
+        android:layout_margin="2dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.CardView
+            android:backgroundTint="#f1f1f1"
+            app:cardCornerRadius="5dp"
+            android:layout_margin="4dp"
+            app:cardElevation="8dp"
+            android:elevation="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:elevation="10dp"
+                android:padding="5dp"
+                android:background="#501f1d"
+                android:layout_margin="2dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textColor="#f5f5f5"
+                android:textStyle="bold"
+                android:text="HDD Internal / External"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginBottom="5dp"
+                android:padding="5dp"
+                android:fontFamily="sans-serif"
+                android:layout_marginTop="50dp"
+                android:textAlignment="textStart"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:textSize="17sp"
+                android:textColor="#333333"
+                android:textStyle="normal"
+                android:text="The final thing to consider is whether this hard drive is going to housed in a desktop or laptop case or used externally and connected to various devices. It’s an easy decision, but let’s take a look at the pros and cons of each.\n\n
+External drives are ideal for storage, backups, and transfers. They typically connect using USB 2.0, 3.0, or 3.1, which have maximum transfer speeds of 60MB/s, 625MB/s, and 1,250MB/s, respectively. USB 3.1 is preferable of course, but not essential unless you’re transferring hours of data back and forth every single day.\n\n
+External drives are portable. They can be shared between multiple computers without any hassle. Just unplug the USB, plug it elsewhere, and you’re done. They can also be plugged into TVs and media centers for direct media playback.
+"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+
+        </android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

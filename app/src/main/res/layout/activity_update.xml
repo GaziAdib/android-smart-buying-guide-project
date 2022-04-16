@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FireBaseBackend.activity.UpdateActivity"
+    android:weightSum="10"
+    android:orientation="vertical">
+
+    <TextView
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:id="@+id/postCategoryTitle"
+        android:text="Update Your Post"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="25sp"
+        android:fontFamily="serif-monospace"
+        android:textStyle="bold"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+    <ImageView
+        android:padding="10dp"
+        android:id="@+id/postImage"
+        android:src="@drawable/ic_television"
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+    <EditText
+        android:layout_margin="10dp"
+        android:layout_weight=".7"
+        android:background="@drawable/reg_edittext_style"
+        android:hint="Product ID"
+        android:layout_gravity="center"
+        android:id="@+id/postProductID"
+        android:editable="false"
+        android:layout_width="265dp"
+        android:layout_height="0dp"
+        android:textAlignment="center"
+        android:ems="10"
+        android:inputType="textPersonName" />
+    <EditText
+        android:layout_margin="10dp"
+        android:layout_weight=".7"
+        android:background="@drawable/reg_edittext_style"
+        android:hint="Product Name"
+        android:layout_gravity="center"
+        android:id="@+id/postName"
+        android:layout_width="265dp"
+        android:layout_height="0dp"
+        android:textAlignment="center"
+        android:ems="10"
+        android:inputType="textPersonName" />
+    <TextView
+        android:id="@+id/postSpinnerAddCategory"
+        android:layout_gravity="center"
+        android:layout_width="265dp"
+        android:layout_height="0dp"
+        android:layout_weight=".7"
+        android:gravity="center_vertical"
+        android:text="Collection"
+        android:background="@drawable/spinner_back"
+        android:popupBackground="#f7f7f7"
+        android:spinnerMode="dropdown" />
+    <EditText
+        android:layout_margin="10dp"
+        android:layout_weight=".7"
+        android:background="@drawable/reg_edittext_style"
+        android:hint="Add Description"
+        android:layout_gravity="center"
+        android:minLines="3"
+        android:maxLines="6"
+        android:id="@+id/postAddDescription"
+        android:layout_width="265dp"
+        android:layout_height="0dp"
+        android:textAlignment="center"
+        android:ems="10"
+        android:inputType="textPersonName|textMultiLine" />
+    <EditText
+        android:layout_margin="10dp"
+        android:layout_weight=".7"
+        android:background="@drawable/reg_edittext_style"
+        android:hint="Add Price"
+        android:layout_gravity="center"
+        android:id="@+id/postAddPrice"
+        android:layout_width="265dp"
+        android:layout_height="0dp"
+        android:textAlignment="center"
+        android:ems="10"
+        android:inputType="textPersonName" />
+    <Button
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/reg_btn_style"
+        android:hint="Submit Post"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:id="@+id/postSubmitBtn"
+        android:layout_width="300dp"
+        android:layout_height="0dp"
+        android:textAlignment="center"
+        android:fontFamily="serif"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+
+</LinearLayout>

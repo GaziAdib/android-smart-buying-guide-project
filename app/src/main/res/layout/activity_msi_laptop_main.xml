@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MsiLaptopWeb.MsiLaptopMain">
+
+    <android.support.v7.widget.Toolbar
+        app:title="MSI Laptop"
+        app:titleTextColor="#ffffff"
+        android:background="#d70909"
+        android:id="@+id/toolbar_id"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+
+
+    <android.support.design.widget.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tab_id"
+        android:layout_below="@id/toolbar_id"
+        android:background="#ec0909"
+        app:tabMode="scrollable"
+        app:tabSelectedTextColor="#ffffff"
+        app:tabGravity="fill"
+        app:tabTextColor="#e1e1e1"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager_id"
+        android:layout_below="@id/tab_id"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

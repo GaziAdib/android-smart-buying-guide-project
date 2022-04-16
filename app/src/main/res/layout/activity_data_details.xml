@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FireBaseBackend.activity.DetailsActivity"
+    android:fillViewport="true"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:padding="10dp"
+            android:background="@color/colorPrimaryDark"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:id="@+id/frag_smartphone_feed_title"
+            android:text="Details"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textSize="30sp"
+            android:fontFamily="serif-monospace"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_height="215dp"
+            android:elevation="6dp"
+            app:cardElevation="8dp"
+            app:cardCornerRadius="2dp">
+
+            <LinearLayout
+                android:background="@drawable/bg_postdetails_activity_cardview"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:layout_gravity="center"
+                    android:id="@+id/detail_productImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                  />
+
+            </LinearLayout>
+
+
+        </android.support.v7.widget.CardView>
+
+
+        <TextView
+            android:fontFamily="sans-serif-black"
+            android:textColor="#4D4C4C"
+            android:id="@+id/detail_product_ID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[Product ID] : \t"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:padding="5dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginTop="15dp"/>
+        <TextView
+            android:textIsSelectable="true"
+            android:textColor="#444444"
+            android:id="@+id/details_product_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[Name] : \t"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:padding="5dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"/>
+        <TextView
+            android:textIsSelectable="true"
+            android:textColor="#444444"
+            android:id="@+id/detail_product_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[Category] : \t"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:padding="5dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"/>
+        <TextView
+            android:textIsSelectable="true"
+            android:textColor="#444444"
+            android:id="@+id/details_product_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[Description] : "
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:padding="5dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"/>
+
+
+        <TextView
+            android:textIsSelectable="true"
+            android:textColor="#444444"
+            android:id="@+id/details_product_recommendation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="[Recommendation] : "
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:padding="5dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"/>
+
+        <TextView
+            android:layout_marginTop="3dp"
+            android:textColor="#F73575"
+            android:id="@+id/details_posted_by"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Posted By: \t"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:text="See or Add Comment"
+            android:layout_marginTop="50dp"
+            android:onClick="openCommentActivity"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+
+
+</android.support.v4.widget.NestedScrollView>

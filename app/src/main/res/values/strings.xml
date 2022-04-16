@@ -1,0 +1,3066 @@
+<resources>
+    <string name="app_name">FinalYearProject1Try</string>
+    <string name="title_activity_smartphone__brands_activity">Smartphone_Brands_activity</string>
+
+
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_aa">AAA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="title_phone">Phone</string>
+    <string name="title_laptop">Laptop</string>
+    <string name="title_desktop">Desktop</string>
+    <string name="title_tv">TV</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="laptop_processor_guide_intro">
+
+        CPU:
+
+        The Most important things to consider before buying a laptop is to know about its processor. It has a huge influence on the performance of any laptop.
+
+    </string>
+
+    <string name="laptop_processor_core_i5">
+
+        Intel-core i5: \n\n
+
+        If you are looking for a complete laptop with best combination of price and performance, get one with an intel core i5 CPU. The most common those are ends with ‘U’ like Core i5-7200U. Those are low powered and have the worst performance while the best ones are ‘HQ’ named processor and they have very good performance and mostly used in gaming and workstation systems. Intel’s new 8th gen, ‘Kaby Lake’ CPUs have model number that is like Core i5-8250. They have more amount of cored that improves overall performance boost.
+
+
+    </string>
+
+    <string name="laptop_processor_core_i7">
+
+        Intel-core i7: \n\n
+
+        A step up from Core i5, which Models with numbers that end in HQ or K use higher wattage and have four cores, allowing for even faster gaming and productivity. There are also Core i7 Y series chips that have lower power and performance. Keep an eye out for CPUs that have an 8 in the model number (ex: Core i7-8250U) because they are part of Intel\s latest, 8th Generation Core Series, and offer better performance. However, 8th Gen processors are only available in the U series right now.
+
+
+    </string>
+
+    <string name="laptop_processor_core_i3">
+
+        Intel-core i3: \n\n
+
+        Performance is not good that you can do most of the work fine like gaming and editing are possible here. But if you are doing normal stuff like watching YouTube, browsing internet, playing casual games, word document work etc. Don’t expect goof performance with core i3 specially in laptop as they have low cores and thread.
+
+
+
+    </string>
+
+    <string name="laptop_processor_ryzen_mobile">
+
+        AMD Ryzen Mobile: \n\n
+
+       A new set of chips designed by AMD to compete with intel’s core i3, i5, i7 processors. AMD Ryzen CPUs are really great price to performance as its cheap and provide nearly equal quality as intel processors. They have more cores and more threads than intel’s one and for that they are good in productivity but not in games like you can stream videos, edit them, do multi-tasking faster than intel’s equivalent at less cost. But gamin is not great on them.
+
+
+    </string>
+
+    <string name="laptop_processor_pentium_celeron_mobile">
+
+        Pentium/Celeron: \n\n
+
+        Common in sub $400 laptops, these chips offer the slowest performance, but can do if your main tasks are web surfing and light document editing. If you can pay more to get a Core i3 or i5, you\'d be better off.
+
+    </string>
+
+    <string name="laptop_processor_intel_xeon_mobile">
+
+       Intel Xeon: \n\n
+Extremely powerful and expensive processors for large mobile workstations. If you do professional-grade engineering, 3D modeling or video editing, you might want a Xeon, but you won\'t get good battery life or a light laptop.
+
+
+    </string>
+
+
+    <string name="laptop_ram_guide_intro">
+
+        •What is ram and How does it works?\n\n
+
+        RAM stands for Random Access Memory, and it consists of dynamic memory chips that can be written and rewritten with data very quickly. Unlike your hard drive, however, the memory used for RAM is also volatile, meaning that it only holds onto that data while the chip is powered, so it’s not designed to hold information long term.\n\n
+
+        The bottom line is that RAM is essential to the smooth operating of your computer, particularly for things like multitasking and accessing multiple files at one time. While your overall performance will largely be dictated by the capabilities of your processor and graphics hardware, your memory allotment will directly impact how well you can take advantage of that performance. Too little RAM creates a bottleneck that slows everything down, and the basic rule of thumb is that more RAM is always better.\n\n
+
+
+    </string>
+
+
+    <string name="laptop_ram_how_much_need">
+
+Well if you want to know how much ram is enough then there is no straight forward answer as there is lot of things you have to consider and based on your need and budget it will vary a lot. Main things to consider are:\n\n
+1. Office productivity\n
+2. Web browsing\n
+3. Developer\n
+4. Photo Editing\n
+5. Gaming\n
+
+
+    </string>
+
+
+    <string name="laptop_ram_Office_productivity">
+        	Office productivity\n\n
+
+Office words are not demanding lots of the times as you would edit word files, create excel sheets, write on documents, open web browsers etc. stuff can be done easily with at least 3-4GB of ram. So, you don’t need that mush of ram if you are eager to buy a laptop just for office works. If you are open lots of apps and works on multiple files then consider at least 6gb of ram or better if possible.\n\n
+
+    </string>
+
+
+    <string name="laptop_ram_web_browsing">
+
+        	Web Browsing\n\n
+
+        Web browsing is one of the important works all types of people do usually in laptops size devices. So, if you are targeting to buy laptops for normal web browsing and document writing and reading and editing stuff then any normal quality laptop is fine considering they have core-i3 8th gen, 4GB ram combination. This is very basic laptop configuration that can do most of the light works properly like multiple tab opening and browsing and watching videos etc. stuffs. Google chrome takes a lot of ram but 4gb is enough but you have other options like Firefox, Edge, safari etc. too to solve this issue.\n\n
+
+
+    </string>
+
+
+    <string name="laptop_ram_developer">
+
+        	Developer\n\n
+
+        Developers job is little bit complex and they need to use lots of apps and software that is very ram consuming and demanding and you need amazing processor, high Ram, SSD, good quality HDD, Good graphics Unit in combined to do complex web design and development specially when building IOS and Android Apps you need to use XCode and Android Studio that consumed huge ram like 8gb at least is a must have to operate properly and 16 GB ram with good SSD is recommended!. They also do tons of web research and photoshop, illustrator works as well so in conclusion I gave to say developer need very good quality laptop with lots of ram.\n\n
+
+
+    </string>
+
+    <string name="laptop_ram_photo_editing">
+
+        	Photo Editing \n\n
+
+Photo editing is far more demanding than basic office and web functionality. It is a vast field in computer and graphical world. You have Photoshop, Illustrator , Adobe XD etc. types of software that can do photo editing , color grading, cropping, cutting-moving, rotate, multiple layers are there to work on and they are professional apps for logo design, banner design, prototype, graphics design works and they need lots of processor and Ram juice to perform fluidly. You just cannot get good performance in these categories in low level laptops so you must buy a laptop having more than 8GB of ram or if your very tight budget still wants to use those apps then at least 6GB must be needed to do basic editing workflow. But my recommendation will be 8-12GB if you can afford it.\n\n
+
+    </string>
+
+    <string name="laptop_ram_gaming">
+
+        	Gaming \n\n
+
+Gaming is a very important category lots of people buy good laptops for gaming purposes almost everyone knows that gaming need an awesome grade processor like intel’s core-i7 8th gen or core-i5 8th gen or core-i9 based laptops with 16gb or more ram and amazing graphics processing unit and SSD to combine to get better gaming performance as a whole. So, always keep that in minds normal laptops are not for editors and gamers. You have to spends money to get gaming laptops and try to get at least core-i5 with 8GB ram and SSD with 4GB Nvidia or AMD equivalent GPU based laptops.\n\n
+
+    </string>
+
+
+    <string name="laptop_storage_guide_intro">
+
+        		Now-a-days there are 2 main options for storage in both laptops and desktops PCs. One of them is HDD and other one is SSD (Solid State Drive). HDD is the main primary storage for many people and SSD is for fast booting stuff and blazing fast speed in read and writing etc.
+
+    </string>
+
+    <string name="laptop_storage_hdd">
+
+        	HDD (Hard Disk Drive): \n\n
+
+        The main storage for holding all media files, audio, video, documents and even lots of people put operating system on them those who can’t afford or use SSDs.\n\n
+
+        The main advantage of using HDD is that it is cheap and most of the laptops has at least 512GB or 1TB HDD. So, you are quite safe to put your media files on those HDDs. But HDDs are slower and cheap they don’t perform as well as SSDs so they are being used only for storage mainly on good laptops. My Recommendation is to buy laptops based on at least 1TB of HDD for holding lots of important files etc. on the go. That is more than enough for laptops. HDD capacity varies from 240GB up-to 2TB in laptops.\n\n
+
+    </string>
+
+    <string name="laptop_storage_ssd">
+
+        	SSD (Solid State Drives) \n\n
+Solid state drives are so much popular now as it is almost 10 times faster read and write speed than slow HDDs and it is being used massively in Operation System like holding windows 10 on SSD gives huge performance boost in your laptops and it makes your user experience lot better and smooth. \n\n
+
+         Booting time, games loading time, apps opening times reduced massively by the amazing SSDs and it is so fast but expensive. It is getting cheaper though so don’t worry it is worth the money. It is flash storage and it does not use disk like HDD so it is super-fast and light weight. Thin laptops it too often. Go for at least 128 GB SSDs for better experience but recommended is 256GB but it is expensive too.\n\n
+
+    </string>
+
+    <string name="laptop_storage_ssd_good_side">
+
+        SSD are good for: \n\n
+1. Gamers\n
+2. Developers\n
+3. Editors\n
+4. Content creators\n
+5. office works.\n\n
+
+
+    </string>
+
+    <string name="laptop_storage_ssd_bad_side">
+
+        Problems with SSDs:\n\n
+
+1. It is pretty expensive.\n
+2. it has lower storage.\n\n
+
+
+    </string>
+
+    <string name="laptop_storage_ssd_hybrid_drive">
+
+        	Solid State Hybrid Drives:\n\n
+
+        If you want higher performance than a traditional hard drive but do not want to sacrifice storage capacity, a solid state hybrid drive (SSHD) is another option. Some companies are referring to these as just hybrid hard drives.\n\n
+        Solid state hybrid drives include a small amount of solid state memory on a traditional hard drive that is used to cache frequently used files. They do help speed up tasks such as booting up a laptop but they are not always faster.\n\n
+
+
+
+
+    </string>
+
+    <string name="laptop_storage_smart_response_technology_ssd_cache">
+
+        	Smart Response Technology and SSD Cache \n\n
+
+        Similar to hybrid hard drives, some laptops are using both traditional hard drives with a small solid state drive. The most common form of this uses the Intel Smart Response Technology. This provides the benefits of the storage capacities of the hard drive while gaining the speed benefits of a solid-state drive.\n\n
+
+    </string>
+
+
+    <string name="laptop_storage_ssd_hdd_combination">
+
+        	SSD and HDD combination:\n\n
+
+        Always try to buy laptops having SSD and HDD and 2 different purpose one is for OS and apps installing and another is media files storage to get optimal performance from your laptop.\n\n
+
+    </string>
+
+
+    <string name="laptop_ports_intro">
+
+        	What are ports I/O?\n\n
+Ports are the main connectivity of your laptops that can define how good it can be connected with other devices and monitors to get what you want to connect to increase your productivity. It is essential to have good amounts of ports that you can input in it and get desired outcome like having lots of USB 2.0 and USB 3.0 then SD card reader, headphone jack, thunderbolt 3 etc. ports are basic examples.\n\n
+
+
+    </string>
+
+    <string name="laptop_ports_types">
+
+        	Types of ports?\n\n
+	USB 2.0/3.0/3.1 (type-A)\n
+	USB-C port (type-C)\n
+	HDMI port\n
+	SD card reader\n
+	Display Port\n
+	Thunderbolt 3\n
+	Ethernet port\n
+
+
+    </string>
+
+
+    <string name="laptop_ports_type_usb_a">
+
+        USB 3.0/2.0 (type A): \n\n
+USB stands for Universal Serial Bus (USB) and it is the most common port that you will find in any types of laptop. Every laptop has it and you will have to find how many USB ports are there in your laptop to connect other devices to your laptop to share data, files, picture, videos, media files etc. across pen-drive, smartphone and also for charging peripherals. USB 3.0 is the upgraded version of USB 2.0 and it is really fast and it is USB type A.\n\n
+USB 2.0 are typically colored black and gray while USB 3.0 are Blue colored. There are USB 3.1 also the 2nd gen from USB3.0 and it has twice speed than USB 3.0 like 10Gbps compared to USB 3.0 5Gbps.\n\n
+
+    </string>
+
+
+    <string name="laptop_ports_type_usb_c">
+
+        USB type-C\n\n
+This is the newest and latest type of USB port that is fast replacing USB type A port on laptops and smartphones as well. USB-C is slimmer, smaller, faster, round and comes with 24-pins which makes it handle higher currents and faster transfer speed. It is not very common to find but it is very useful port and try to find a laptop that has that port.\n\n
+
+
+
+    </string>
+
+
+    <string name="laptop_ports_type_hdmi">
+
+        HDMI\n\n
+A High Definition Media Interface (HDMI) port permits the transfer of audio and video signals between your laptop and other devices laptops, digital cameras, monitors, game consoles, projectors etc.\n\n
+The latest version is HDMI 2.1 while other older versions are HDMI 2.0 and HDMI 1.4. Just check before buying your laptop has latest version of HDMI ports as it has greater advantages. HDMI 2.1 come with better audio and video capabilities. They are also backward compatible and all version has 19 pin connectors. There are 4 types of HDMI ports like A, C, D and E. The first 3 types used in laptops.
+
+
+    </string>
+
+
+    <string name="laptop_ports_type_sd_card_reader">
+
+        SD Card Reader \n\n
+SD card reader is used to easily transfer files to/from a SD card. They are very useful, convenient, usually found on business and portable notebooks as well to share data and files across devices.
+
+
+    </string>
+
+
+    <string name="laptop_ports_type_display_port">
+
+        Display Port\n\n
+This port comes with 20-pin connector and also sends video and audio signals to external display devices like monitors. There are mainly 2 types of Display ports on modern laptops like standard display port and mini display port.\n\n
+
+ You would find mini Display ports mostly on small and thin sized laptops like Microsoft Surface Pro tablets and Apple’s MacBook Pro laptops. Standard Display ports are found on bigger sized laptops.\n\n
+
+    </string>
+
+
+    <string name="laptop_ports_type_thunder_bolt_3">
+
+        ThunderBolt 3\n\n
+ThunderBolt 3 is very identical to USB-C port but they operate on different protocols. Basically, the thunderbolt 3 is a USB-C port that support higher and faster transfer speed of up to 40 Gbps, four times that of regular USB-C Gen 2.\n\n
+        Also, all ThunderBolt 3 ports can function as USB-C but it is more than USB-C port. It is rarely found on average quality laptops only good quality high end laptops has that feature ports that can get you amazing performance by adding external GPU power to your laptops to increase gaming and rendering performance on your laptops. So, before buying expensive laptops must check if it has this useful port. You can identify it by seeing a thunder-like inscription next to it.\n\n
+
+
+    </string>
+
+    <string name="laptop_ports_type_ethernet">
+
+        Ethernet Port\n\n
+
+RJ stands or Registered Jack and a RJ-45 Ethernet port allows you to connect to the internet on your laptop through a compatible ethernet cable. The RJ-45 port has an 8 pin – 8 contact (8P – 8C) connector and sometimes comes with two LED lights indicating packet detection and transmission. It is very common and important to have if you use internet a lot with ethernet broadband ports etc.
+
+
+    </string>
+
+
+    <string name="laptop_platform_intro">
+
+        Pick a platform: Windows, Mac, Chrome OS\n\n
+There is no direct answer what you should get it depends on which side you will be benefited from your kind of work and you must choose platform according to your need and workbench. Windows, Mac, Chrome all have differences in features, benefit and optimization with mixed user experiences.\n\n
+
+
+    </string>
+
+
+    <string name="laptop_platform_windows_10">
+
+        	Windows\n\n
+The most common and flexible operating system. Windows appears on most laptops, notebooks as it fits very well in tablet mode and laptop mode with good office related workflow, and amazing gaming performance as well. If you want to buy laptops for productivity, office work, gaming and game developing then it is always better choice and more optimized choice for most of the people. Windows 10 based laptops are in both tablet and full-sized laptop modes so it is great advantage.
+
+
+    </string>
+
+
+    <string name="laptop_platform_mac_os">
+
+        	Mac OS\n\n
+
+        All Apple\’s MacBooks come with latest desktop operating system macOS Mojave. It is full and complete OS platform that do every type of works very nicely except gaming. It is great for Android, IOS, Web development and overall programming is a joy on Mac OS platform. Terminal workflow is amazing on this platform. Video editing, programming, development, productivity, office work, photo editing all types of work just flow on Mac OS and it is that good optimized top of the line OS for laptops. But you will not find portable tablets with both full-sized laptops in it like windows laptops.\n\n
+
+    </string>
+
+
+    <string name="laptop_platform_chrome_os">
+
+        	Chrome OS\n\n
+
+Found on inexpensive ChromeBooks such as the Samsung ChromeBook 3. Google\'s OS is simple and secure, but more limited than Windows or macOS. The user interface looks a lot like Windows with an application menu, a desktop and the ability to drag windows around, but the main app you use is the Chrome browser. The downside is that many of the "web apps" you use don\'t work particularly well offline. However, that\'s changing as a several ChromeBooks, including the high-end, Google PixelBook, can now run Android apps.\n\n
+
+
+    </string>
+
+    <string name="laptop_display_and_graphics_intro">
+
+        Laptops Display:\n\n
+
+There are tons of things to know about Display in a laptop buying guide specially screen size, Display quality, resolution, color reproduction, black level, screen types, color gamut, contrast, brightness, v-sync, g-sync etc. are so vital to know for buying good quality laptops. Let’s understand then in details.\n\n
+
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_topics">
+
+        Topics to know\n\n
+
+
+        	Resolution\n
+	Contrast\n
+	Brightness\n
+	Color gamut\n
+	IPS, LCD, OLED\n
+	HDR\n
+	Refresh rate\n
+	G-sync\n\n
+
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_resolution">
+
+        	Resolution\n\n
+It is one of the most common feature people care about more and more as there is a trend going how good and sharp your display like having full HD 1080P (1920*1080) and QHD (2560*1440P) panel and some 4k (3820*2160) display notebooks and laptops are in the market. Companies do market lot on display panel and resolution is also main reason people really do care about display of laptops and I think it is very important to know the benefits as more the resolution the more pixel in one inch and better and sharper image quality. Density is the key point here. One curse is that the more your pixel is the less battery life you will get as it is power hungry. There are cheap 720P (1366*768) panels are out there so be careful on that those are not sharp and produce bad image and video quality which is never a good thing.\n\n
+
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_contrast">
+
+        	Contrast\n\n
+Contrast ratio is simply the ratio of luminance between brightest color (white) and darkest (black) color on a display. Higher ratios are considered better because it means images will appear more defined and realistic. Experts have tested some best laptops having highest points on contrast ratio are Dell XPS 13, MacBook and Surface lines product. It is always a matter to look for good quality display. It is stated as 100000:1 as example.\n\n
+
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_brightness">
+
+        	Brightness\n\n
+Brightness is important for mobile devices like laptops, smartphone and tablets. Most devices have a glossy display to enhance contrast but glossy makes reflection an issue in bright rooms or outdoor. These reflections can only be defeated by a bright display.\n\n
+        The Nit is the standard unit to measure how bright the display is and how good is outdoor visibility. A higher rating means a brighter display. On an average laptops and mobile devices are usually between 200 and 300. A rating over 300 is good and above 500 is extremely good. Only a few laptops put out that much light. So before buying check how good is the brightness level to see content in outdoor properly.\n\n
+
+
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_color_gamut">
+
+        	Color Gamut\n\n
+Microsoft and HP collaborated in 1996 to create a standard color space as sRGB. A color space is a standard gamut of colors that displays should be capable of reproducing.\n\n
+
+        In color gamut, the squares represent the colors the screen should display and the circle represent our color measurements. The lighter colored triangle represents the full range of colors that the display should be able to produce.\n\n
+
+        These days, most laptops you purchase can handle most of the sRGB color space. Even most midrange IPS displays can handle around 90 percent or better. So, today’s standards we often use color gamut using Adobe RGB color space. Only the highest quality laptops handle over three quarters of this color space.\n
+Only some professional laptops like MacBook Pro, ThinkPad X1 Extreme and dell XPS 15 can reach 90s of both sRGB and Adobe RGB.
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_hdr">
+
+        HDR (High Dynamic Range)\n\n
+HDR is not so new thing now in 2019 specially in laptops and monitors, smartphones etc. But you will find those HDR quality display in high-end Laptops only. It is not difficult to understand what is HDR, it is just a technology that allows for high level of contrast between light and dark images on a screen and for better color depth in images and videos in general.\n\n
+
+        Some good quality video purpose and gaming centric laptop comes with that HDR display. You can see movies and games more bright, vibrant and fun to watch or play. A laptop like 3rd gen ThinkPad X1 Yoga comes with HDR supported display as an example.\n\n
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_refresh_rate">
+
+        Refresh rate\n\n
+Measured in hertz, a refresh rate is a term which explains how often a display can change the picture in a second. Common refresh rates include 60Hz, 120Hz, and 144Hz, but these have nothing to do with color accuracy or resolution. Still, for gaming, refresh rates are especially important.\n\n
+        Playing games at a native refresh rate on a monitor or laptop is best since it can avoid screen tearing, where the video card is pushing out frames that a display cannot support. More and more video cards like the Nvidia GTX 1080 or RTX 2080 can power frame rates over 60Hz, so it is an investment in a monitor or laptop with a high refresh rate ensures the best possible experience. As most gamers can attest, the difference between playing a fast-paced shooter on a 144Hz screen versus a 60Hz screen is, quite literally, game-changing.\n\n
+        While high-refresh rate displays are only now beginning to appear in gaming laptops, we would recommend the Alienware 17 R5, which supports refresh rates up to 120Hz — or even the Razer Blade 15, which goes up to 144Hz.\n\n
+
+
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_screen_types">
+
+
+        Screen types\n\n
+
+        Screen Types are generally LCD, IPS, OLED in laptops. Each panel has its own advantage and disadvantages along with good sides as well. Let’s understand in details.\n\n
+
+
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_lcd">
+
+        LCD\n\n
+There are two basic technologies that are used in LCD panels laptops those are TN and IPS (In Place Switching). TN panels are most common but they are cheap and good for budget category laptops to reduce some price. TN panels has the worst viewing angles and display quality with poor black level and color reproduction. Only good thing is that it offers faster refresh rate which makes it better for gamers who play lots of compitative games at very high frame rates.\n\n
+        Not for content creator, photo and video editors, graphics designers in general but good for gamers and normal budget buyers.\n\n
+
+
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_ips">
+
+        IPS\n\n
+IPS panels are used in good quality laptops more often as it provides amazing 178 degree viewing angles that we can watch content with friends and family without any distortion or negative effect in screen. It has much better color reproduction and more accuracy in color gamut result and better for any types of users like video editors, photo editors, movie watching and those who need accurate color in their work. Always try to get laptops with IPS panel but it will be little expensive option but it is worthy to spend to buy good panel.\n\n
+
+
+    </string>
+
+    <string name="laptop_display_and_graphics_oled">
+
+        OLED\n\n
+OLED (Organic Light Emitting Diode) is another amazing display panel tech that is showing up in some laptops and smartphones but only high-end ones has OLED panels and it is expensive and produce very rich deep color and superior black level that enhances your visual experience over other LCD and IPS panel. OLED has deep black level as there is no backlight on it but LCD has backlit so OLED is far better than LCD and IPS in terms of black level and great color reproduction.\n\n
+        OLED also has problems and it is like if you watch or play games longer period you will feel that screen burning issues a lot after long uses. It is very expensive and only few laptops are there that has OLED displays. It is not that good for gamers as low refresh rate hurts gaming experience a lot. It is only limited to 60HZ but LCD can go over 200HZ so there is massive difference there. So, buy according to your need.\n\n
+
+
+    </string>
+
+    <string name="laptop_display_and_graphics_gsync_intro">
+
+        G-sync\n\n
+        It is Nvidia tech launched in 2013 that is used on display technology both in monitors and laptops of high-end models. It helps to increase performance with a focus on reducing input lag and eliminating screen tearing. If you are a gamer and buying a laptop for amazing gaming experience this part is for you.\n\n
+
+
+    </string>
+
+    <string name="laptop_display_and_graphics_screen_tearing">
+
+        Screen tearing?\n\n
+Sometimes when you have low refresh rate monitors on a laptops like 60HZ then you have a good graphics processors that can handle games over 60FPS then you will see your monitor is tearing some part during the gameplay which is not ideal at all and it is pretty disgusting that your screen is not able to catch up with the speed of gameplay frame rates it will cause screen to tear to catch up the speed. V-sync allows to reduce gameplay to locked 60 FPS to match the refresh rate with gameplay speed to produce tear free performance.\n\n
+But with v-sync enabled your gaming performance will be really bad as it is causing performance hit on your resources. If you can play at high frame rate you will feel and perform better in competitive games.\n\n
+
+
+    </string>
+
+
+    <string name="laptop_display_and_graphics_gsync_advantage">
+
+        Why G-Sync is better?\n\n
+Because monitors have a fixed refresh period and graphics cards have inconsistent output based on the image they\'re rendering, problems arise when graphics cards output too quickly or too slowly to the monitor. G-Sync changes the monitor\'s refresh rate so that it works best with what the graphics card is delivering, including making real-time predictions of the graphics card output based on recent performance.\n\n
+G-sync is found on high quality gaming laptops like Alienware, Asus ROG, Acer gaming series laptops etc. but you will feel the difference in gaming with those laptops.\n\n
+
+
+    </string>
+
+
+    <string name="laptop_screen_size_intro">
+        Screen Size: \n\n
+
+        When it comes to laptops, size matters. You need to pick a size that’s the right fit for you. Size cannot be upgraded like ram or HDD, so choose it carefully.\n\n
+        Laptop sizes tend to start at 11.6 inches and go all the way up to 17.3 inches. Most modern brand like HP, Dell, Asus, Acer offers 13.3 inches, 15 inches, 17 inches laptops.
+        If portability is your priority, you will go for smaller sized windows laptop. They are slim, thin and light one. A laptop with 12.5 or 13.3 inches have an weight of 1 kg and 1.5kgs But there will be less ports in small sized laptops.\n\n
+        Keep in mind that smaller sized 13.3 inches machines often don’t support high-end CPU and discrete GPU to power up the machines that much. You will find high-end specs in bigger sized laptops. Convertibles(2-in-1) laptops can expand it by folding away the keyboard and can be used as table mode without keyboard such as Acer ChromeBook.\n\n
+
+    </string>
+
+    <string name="laptop_screen_size_11_to_12_inch">
+
+        11 to 12 inches:\n\n
+        The thinnest and lightest systems around have 11-to-12-inch screens and typically weight 2.5 to 3.5 pounds.Generally used when travelling and doing very light works like documents reading, taking notes, web surfing, watching youtube on the fly not more than that!\n\n
+
+
+    </string>
+
+    <string name="laptop_screen_size_13_to_14_inch">
+        13 to 14 inches:\n\n
+        Provides the best balance of portability and usability. Particularly if you get a laptop that weights under 4 pounds. It is an amazing choice for students and for business persons who carry laptops a lot and doing their daily works. It is more suitable to medium and light workload. Battery life is great on thin and small laptops as it has less powerful machines and small screen.\n\n
+
+
+    </string>
+
+    <string name="laptop_screen_size_15_inch">
+
+        15 inches:\n\n
+        The most popular size, consider this size if you want a larger screen and if you are not planning to carry your notebook too often. Most of the people don’t like to carry big laptops but it is great combination of power and weight and that’s why you will get lots of laptops in 15 inch as this size is suitable and powerful both. gamers can use it too as their main gaming setup as well who don’t use desktop so much. This is the most recommended size for laptops.\n\n
+
+
+    </string>
+
+    <string name="laptop_screen_size_17_inch">
+
+        17+ inches:\n\n
+
+        If your laptop stays on your desk most of the time a 17 to 18 inches laptop could provide you with great processing power and for doing gaming and workstation level of work etc. It is definitely not for average consumer who travels, go outside with it regularly or business persons etc. But it is more proper for mainstream laptops with very powerful core i9 based processor, top of the line GPU with bulky size and good ventilation for cooling stuff makes the laptops very hard to carry and do normal works. The battery life on these huge laptops are worst in most brands as it has huge screen with very powerful resources.\n\n
+
+
+    </string>
+
+
+    <string name="smartphone_processor_intro">
+
+        Processor is the brain of every smartphones. It is the primary component that defines how well the performance would be on your smartphone. There are so many components and things are interconnected with the processor like GPU (Graphics Processing Unit), Wi-Fi, Bluetooth, Camera, Display and battery performance and optimization all depends on the quality of processor. So, being able to choose good processor is a good sign of smart buy.\n\n
+
+    </string>
+
+    <string name="smartphone_processor_cores_and_clock">
+
+
+        Smartphone cores and clock speed:\n\n
+As usual is measure by clock speed and numbers of core it has like more the cores like 8 cores is better performer than 4 cores and clock speed is measured how many cycles it can rotate in 1 sec. The more clock speed the better and more power hungry It will be for example 2.8Ghz processor is more powerful than 2.2 but more battery consuming as well. The higher core means you can do more works simultaneously with more recent apps in background and do multitask very efficiently in higher core smartphone processors.\n\n
+        A core is a processing unit within a CPU. Each one can handle tasks independently and they can be combined to provide more power to particularly intensive tasks.\n\n
+        In normal use, a multi-core processor will see the cores share the workload of the OS and all your running apps without ever reaching their maximum clock speed. The result is a snappier, more responsive device, with better multitasking support, plus lower heat emission and less power consumption.\n\n
+
+    </string>
+
+
+    <string name="smartphone_processor_better_cpu_with_better_gpu">
+
+        Good Processor With Good GPU:\n\n
+
+        The good quality CPU smartphones comes with a good GPU in package. So, it is an expensive bundle like top of the line Snapdragon 845 comes with adreno 630 GPU and Snapdragon 855 comes with adreno 640 GPUs. So, we can see there should be good quality processor matched with higher end GPUs to produce optimal performance. It is also an expensive solution. Similarly, a midrange snapdragon 636 comes with adreno 509 which is a midrange level graphics unit for budget users. GPU is very important for gamers and visual works like editing, rendering and most importantly playing modern HD games at decent frame rates. So, keep in mind to get smartphone with good GPU if you are into gaming and visual stuffs. \n\n
+
+
+    </string>
+
+
+    <string name="smartphone_processor_different_brands_and_options">
+
+        There are lots of brands of processor to choose from. Mostly used processors are Qualcomm Snapdragon series, Samsung’s own exynos series, Huawei’s own kirin chip, Apple’s own bionic chip etc. are common. But if you have priority on your own you would have less choices. Choices are:\n\n
+
+1. Qualcomm Snapdragon.\n
+2. Samsung Exynos chip.\n
+3. Huawei Kirin.\n
+4. Apple Bionic.\n
+5. MediaTek.\n\n
+
+
+
+    </string>
+
+    <string name="smartphone_processor_qualcomm_snapdragon">
+
+        	Qualcomm Snapdragon:\n\n
+
+        Most used processor manufacturer in smartphone category. It has variety of ranges of processor of different budget to fit like it has low end snapdragon 200 and 400 series for low budget smartphone.\n\n
+
+
+
+    </string>
+
+    <string name="smartphone_processor_snapdragon_midrange_category">
+
+        Midrange processors:\n\n
+
+        It has midrange category processor like snapdragon 600 series such as snapdragon 625, S630, S636, S660 etc. series octa-core processors that can handle most of the modern work just fine like gaming, web browsing, editing, opening and closing multiple apps same times. It comes with 14nm chipset up to 1.8Ghz octa-core processor with max 4k recording support at 30 fps.\n\n
+         But in some games, it lags at very high resolution and you cannot play PUBG or fortnight like games at max setting with good framerates. But at lower graphics setting you can do gaming really well at those midrange processors.\n\n
+
+
+
+
+    </string>
+
+    <string name="smartphone_processor_snapdragon_highend_category">
+
+        Highend processors:\n\n
+
+        The highest Category of snapdragons are 800 series like 835, 845 and latest 855 has superior performance and are designed to do hardcore task like video editing, AI based work like face recognition, pattern recognition, Artificial neural network types of works, 8k resolution support and video recording, 5G network, Wi-fi 6 support and much more advanced technologies can be implemented on those high end chips. They come with latest 7nm process up to 2.8Ghz octa-core which is much more efficient and powerful.\n\n
+
+
+
+    </string>
+
+    <string name="smartphone_processor_samsung_exynos_intro">
+
+        This is the Samsung\’s own processor made for their smartphones which are equivalent to Qualcomm Snapdragon version which is found on US market. But exynos versions are for rest of the world and they are quite capable to match with latest snapdragon flagships. There are also 3 categories of exynos processor like high end, midrange and budget segment.\n\n
+        The top end processor is Exynos 9820 at this moment that powers 2019 flagship galaxy S10 and so on. The new exynos can handle AI-related task lot better than previous 9810. As it offers neural processing unit (NPU) for machine learning tasks. This 9820 is the equivalent for snapdragon newest 855 in comparison.\n\n
+
+
+
+
+    </string>
+
+    <string name="smartphone_processor_samsung_exynos_highend_processor">
+
+        High Tier Processor:\n\n
+
+        The exynos 9820 offers a tri-cluster CPU arrangement for the first time as opposed to the dual-cluster arrangements of previous Samsung flagships. That means two fourth-generation custom cores for demanding use-cases, two Arm Cortex-A75 cores for medium lifting, and four Cortex A55 cores for lightweight tasks. In total exynos 9820 packs:\n\n
+
+1. Fully-custom ARM Cortex.\n
+2. 2x4th gen custom\n
+3. 2x Cortex-A75\n
+4. 4x Cortex-A55\n
+5. Mali-G76 MP12 GPU\n
+6. NPU for AI tasks\n
+7. 8nm process\n
+8. UFS3.0 memory.\n\n
+
+        Samsung\’s 2019 chip also offers the latest Arm Mali GPU (Mali G-76 MP12), support for up to five cameras, 8K/30fps or 4K/150fps video recording, and compatibility with the latest UFS 3.0 storage standard. But the chip is poised to deliver better battery life in theory too, as it’s built on an 8nm manufacturing process.\n\n
+
+        The older version were exynos 9810 which was used in previous galaxy s9 and s9+ smartphones. Which was equivalent to snapdragon 845 chip.\n\n
+
+
+    </string>
+
+
+    <string name="smartphone_processor_samsung_exynos_midrange_processor">
+
+        Mid Tier Processor:\n\n
+
+        Samsung has tried a lot to fulfill its smartphone with combination of performance with price consideration and brought it’s mid budget processors like exynos 7 series 7885 and 7880 processor and with another exynos 9 series 9610 processor is among the best midrange category processor.\n\n
+
+        EXYNOS 9610:\n\n
+CPU:  4x Cortex-A73 2.3Ghz.
+	4x Cortex-A53 1.6Ghz.\n
+GPU: Mali-G72 MP3\n
+RAM: LPDDR4X\n
+Process: 10nm\n
+
+EXYNOS 7885:\n\n
+CPU:  4x Cortex-A73 2.2Ghz.
+	4x Cortex-A53 1.6Ghz.\n\n
+GPU: Mali-G71 MP2\n
+RAM: LPDDR4X\n
+Process: 14nm\n
+
+EXYNOS 7880:\n\n
+CPU:  8x Cortex-A53 1.9Ghz\n
+GPU: Mali-T830 MP3\n
+RAM: LPDDR4\n
+Process: 14nm\n\n
+
+        This three processors are good Samsung midrange processor which is powerful enough to handle any types of task including playing HD games and running multiple apps same time. This is like Snapdragons 660 or its equivalent chip. It’s GPU department is not as strong as adreno 512 but enough good for midrange smartphone.\n\n
+
+
+
+
+
+    </string>
+
+    <string name="smartphone_processor_samsung_exynos_budget_processor">
+
+        There are some very cheap category of Samsung smartphone you will find that is not for everyone just for some casual users who like to browse internet, play casual games, take some photos and light document reading etc. type works for them they made budget segment smartphone processor like Exynos 5 series and older exynos 7 series models.\n\n
+        You will find octa-core and even quad-core Cortex-A53 CPUs here. Slower LPDDR3 memory and display support for 720p rather than 1080p. Though 1080p is common now-a-days but still those processor are not good for handling 1080p panel at all.\n\n
+        Some Budget Level Processors are:\n\n
+
+Exynos 7872:\n\n
+CPU: 2x Cortex-A73 2.0 Ghz
+	4x Cortex-A53 1.6 Ghz\n
+GPU: Mali-G71 MP1\n
+RAM: LPDDR3\n
+Process: 14nm\n
+
+
+Exynos 7870:\n\n
+CPU: 8x Cortex-A53 1.6Ghz\n
+GPU: Mali-T830 MP1\n
+RAM: LPDDR3\n
+Process: 14nm\n
+
+Exynos 7570:\n\n
+CPU: 4x Cortex-A53 1.4Ghz\n
+GPU: Mali-T720 MP1\n
+RAM: LPDDR3\n
+Process: 14nm\n
+
+
+
+    </string>
+
+    <string name="smartphone_processor_huawei_kirin_intro">
+
+        Huawei Kirin:\n\n
+
+        Huawei also has their own processor like Samsung and it is called Kirin processor and it has top tier as well as budget quality processors for different categories of devices with low budget, high budget and midrange segment as well. Huawei’s top of the line processors like Kirin 980, 710 and 970 models. For budget users there are Kirin 960, 950 and 930 models.\n\n
+
+
+    </string>
+
+    <string name="smartphone_processor_huawei_kirin_topend_processor">
+
+        TOP OF THE LINES:\n\n
+Just like Qualcomm Snapdragon 855 and Samsung Exynos 9820 Huawei also have their own high powerful processor Kirin 980. They claim that this is the best processor they have ever produced and it has the latest architecture of 7nm process and It has dedicated NPU processor for AI based works that works really well in photography and detecting different mode according to weather and situation. They also said it is the best and most power efficient as well that can handle most intensive task very easily and rival Snapdragon 855 and exynos 9820 processors.\n\n
+
+        	Kirin 980:\n\n
+1.CPU: 2xA76 2.6 GHz
+	2xA76 1.9 GHz
+	4xA55 1.8GHz\n
+2. GPU: Mali-G76 MP10\n
+3. Dual NPU\n
+4. Memory: LPDDR4X\n
+5. Process: 7nm.\n\n
+
+	Kirin 970:\n\n
+1.CPU: 4x A73 + 4x A53\n
+2. GPU: Mali-G72 MP12\n
+3. Dedicated NPU\n
+4. Memory: LPDDR4X\n
+5. Process: 10nm.\n\n
+
+
+	Kirin 710:\n\n
+1.CPU: 4x A73 + 4x A53 1.7GHz\n
+2. GPU: Mali-G51\n
+3. Memory: LPDDR4X\n
+4. Process: 12nm.\n\n
+
+        VERDICT:\n\n
+This modern chipset found on Huawei’s latest flagship smartphone that has tons of processing power and high budget in price as well. You can do almost all types of demanding work like taking 4K videos, watch QHD content and play high quality games and edit videos and run multiple apps in background same time. Specially camera department is so important in this modern flagship devices as there is dedicated AI processor built in to it to do machine learning type work on the go.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_processor_huawei_kirin_midrange_processor">
+
+        MIDRANGE PROCESSORS:\n\n
+
+	Kirin 960:\n\n
+1.CPU: 4x A73 + 4x A53 1.8GHz\n
+2. GPU: Mali-G71MP8\n
+3. Memory: LPDDR4\n
+4. Process: 12nm.\n\n
+
+	Kirin 950:\n\n
+1.CPU: 4x A72 2.3GHz +
+ 4x A53 1.8GHz\n
+2. GPU: Mali-T880MP4\n
+3. Memory: LPDDR4\n
+4. Process: 16nm.\n\n
+
+
+	Kirin 930:\n\n
+1.CPU: 4x A53 1.5GHz +
+ 4x A53 2.2-1.9GHz\n
+2. GPU: Mali 628MP4 680Mhz\n
+3. Memory: 2x LPDDR3\n
+4. Process: 28nm.\n\n
+
+        VERDICT:\n\n
+You can expect less performance in this budget category as there is not good quality processor rather memory is only LPDD3 or LPDDR4 not as fast as LPDDR4X and architecture is old 14nm process or above is not good for modern smartphones which you will have in this segment and there is no dedicated AI NPU processors to do that intensive works. Hardcore task is not possible here at all due to lack of good architecture, memory, NPU and low quality GPU unit making it not suitable for all segment but only for budget people only.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="smartphone_processor_apple_bionic">
+
+
+    </string>
+
+    <string name="smartphone_camera_intro">
+
+        Camera Department:\n\n
+        Every Smartphone has a camera and it is one of the most important selling point of many smartphones. Even some smartphone users buy it only seeing the features of camera department. But sometime they do not know the proper basic things that should be concerned with when buying it for only camera reason. It is all about good quality hardware used in camera and the sensor used in it and how large the sensor is and how good it is in HDR and how good is it in low light scene and how good the video quality and how many FPS it can shoot video etc.\n\n
+
+
+    </string>
+
+    <string name="smartphone_camera_sensor_size">
+
+        Sensor Size:\n\n
+The bigger the sensor, the more it can see and the better the photos it should take. The size of a typical smartphone sensor is around one-third of an inch, but, in some phones, the sensor can be as big as an inch. The bigger the sensor the bigger the pixels, so in theory at least if you have two phones with the same megapixel count but one has a bigger sensor, that one will produce the better shots. If you have 12 MP camera with smaller sensor and 10 MP with bigger sensor size than 10 MP will give much better photos.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_camera_aperture">
+
+        Aperture:\n\n
+Aperture is how much light a lens lets in, and it’s expressed in f-stops: f/2.0, f/2.8 and so on. The smaller the number the bigger the aperture and the more light gets in, so if you want really great low-light performance without a flash, for example, you want the lowest aperture you can. Smaller aperture numbers also indicate that you will get interesting depth of field effects, also known as bokeh effect where the foreground is clear but the background is blurry.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_camera_image_stabilization">
+
+        Image Stabilization:\n\n
+
+Image Stabilization is a great technology to have in smartphone camera arena as It helps to take shake free image and make it more cleaner looking image. Specially in low light photography when take image it comes out blurry so in that case image stabilization helps a lot taking better photos in low light.\n\n
+        There are basically 2 types of image stabilization one is Digital image stabilization that uses software to compensate for slight shakes and to keep the image stable and the other one is optical image stabilization which uses mechanical means to keep the lens still.\n\n
+        Optical is usually better than digital stabilization, especially in low light. Unless the software is really, really good and it often it cannot compete with the shake-free footage you get from a lens that moves when the camera does.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_camera_hdr">
+
+        HDR (High Dynamic Range):\n\n
+
+        HDR, as its name implies, is a method that aims to add more dynamic range to photographs, where dynamic range is the ratio of light to dark in a photograph. Instead of just taking one photo, HDR uses three photos, taken at different exposures. You can then use image editing software to put those three images together and highlight the best parts of each photo. In the case of HDR on smartphones, your phone does all the work for you just snap your picture and it will spit out one regular photo and one HDR photo. The result is something that should look more like what your eyes see rather than what your camera sees.\n\n
+
+
+    </string>
+
+
+    <string name="smartphone_camera_iso_and_shutter_speed">
+
+        ISO and Shutter speed:\n\n
+
+Shutter speed is how long the camera keeps the lens open to take a picture, and ISO is how sensitive your camera is to the available light. Many camera apps allow you to adjust both of these things.\n\n
+        The bigger the ISO number the more sensitive your camera is to light, so for example, if you are shooting at ISO 100 the camera needs one second to capture the image, while at ISO 800 it only needs 0.125 seconds. That extra sensitivity comes at a cost, though, and that is noise, if you are shooting at really high ISOs you will see a lot of noise, which manifests itself as a grainy effect.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_camera_4k_recording">
+
+        4K Recording:\n\n
+Now with the advancement of smartphone processor now in first segment of 2019 almost all midrange and high range smartphone support 4k recording in rear camera so before you buy must check if it has that feature or not but I can tell you this feature is present in almost any phones now. 4K is just a resolution than is 4 time than 1080p that in 1920 by 1080 pixels and 4k is 3840 by 2160 pixels. It captures very high quality videos and you can watch it in 4k Tv even and they will look crisp in bigger TVs as well. So, this is a must feature to have now. If you buy higher end devices you get the smoother 4k 60 FPS video option which is so smooth. So, if you need it must check if the phone has it or not.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_camera_eis">
+
+        EIS (Electronic Image Stabilization):\n\n
+This is an called as EIS because it helps to stabilize videos that looks good to our eyes and for vlogging and making taking good videos it is a must have features to have. EIS down this by using software that handles the shakiness and adjust videos with the video movement. But this is not the best solution there is OIS there which is better than this.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="smartphone_camera_ois">
+
+        OIS (Optical Image Stabilization):\n\n
+OIS is the better Video Stabilization technique that has a mechanism to move sensor with the camera movement so in higher end devices you will see this like Pixel 3XL, Galaxy Note N9, iphone XS max etc. all have these types of IOS in video mode to make video more shake free and smoother.\n\n
+
+
+
+    </string>
+
+    <string name="smartphone_camera_slow_motion">
+
+        Slow-motion:\n\n
+Most of the phone already have it but the difference is in FPS (Frames Per Seconds) . As the higher the frame rate is the more fluid your slow-motion will be and it will look more immersive to watch. As this is a nice feature almost all midrange phones have like 720p 120 fps slow-motion facility and some have even 1080p 120 or 240 fps slow-motion. Some higher end have 1080p 480 fps which is rare to find and some have 720p 980fps ultra slow-motion feature. But for those you have to spent a lot of money. So just see and differentiate what you need and how good quality you want in it. Always remember the good quality processor can handle high FPS videos like over 240FPS slow-motion or better such as 480 FPS etc.\n\n
+
+
+
+    </string>
+
+    <string name="smartphone_camera_final_verdict">
+
+        Final Verdict:\n\n
+I have talked about the most important things to consider before buying the smartphone for camera department and all those features I talked here is so vital for knowing about smartphone camera like IOS, EIS, Sensors, Aperture, Mega Pixel, image processing, good quality sensors are so important to know before buying any smartphones.
+
+
+    </string>
+
+    <string name="smartphone_display_intro">
+        Display is Important!\n\n
+
+        When using any smartphone, you will first notice the display and this display quality defines a lot about the smartphone brands, price, display panel used, resolution used in it and so on. So, knowing about the display of a smartphone is so vital is buying any phone.\n\n
+
+
+    </string>
+
+    <string name="smartphone_display_resolution">
+        Resolution:\n\n
+There are mainly 4 types of display resolution in smartphone arena like 720p HD that is 1280 by 720 pixels,  Full HD 1080P which is 1920 by 1080 pixels, QHD 1440p (Quad HD) that is 2560 by 1440 pixels and finally 4K which is UHD (Ultra HD) 2160P display resolution is 3840 by 2160 pixels and now most of the smartphone is 2018 and 2019 are with at least 720p and 1080p for budget segment and premium smartphone comes with normally 1440p display but 4k display phone is rarely found, one of them is Sony Xperia ZV premium.\n\n
+        4K is 4 times of 1080p full HD, 2K is 2 time of 1080p Full HD, so you can imagine how many pixels are there in 1 inch of display nearly 500 PPI (pixels per inch) per inch and that makes a smartphone display so crisp and clear to look. Movies, Games, reading text files are joy in those high-resolution display.\n\n
+        Now for lower end segment like 720P and 1080p are come with nearly come with PPI of around 200 pixels per inch and 400 pixels per inch. Also, this depends on Screen Size of smartphone too. Smaller display with 1080p resolution means more crisper and sharper display than bigger display 1080p display. Always check which one is best for you now as I told you all the basics of different display resolution used in it. And it also depends on your budget and need too.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_display_resolution_and_processor_optimization">
+
+        Resolution and Processor Optimization:\n\n
+
+As you all know by now the more the resolution the more pixels are in it and the sharper and crisper the content will look on your smartphone. But Some time lots of brands use higher resolution display which is good but they give low quality processor that cannot handle the GPU and that high resolution display so performance drops dramatically , which we do not want specially you want a decent phone you must not want poor performance and slow user interface so keep in mind that with processor the display resolution should also be matched properly like if you have 1440P display suppose and the processor is midrange like Snapdragon 450 or 625 then you will not get the optimal performance from it. Because those CPU are not designed to be used in so much higher resolution display. If the display is 720P or at most 1080p then it is fine. For high resolution display you need high quality processor to give juice that much.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_display_panel_types">
+
+        Panel Types:\n\n
+Display Panels are one of the important things to consider when choosing the best phone for you guys. I will first talk a little bit about different types of panel then my recommendation will be done. There are basically 4 types of display is smartphones:\n\n
+
+a. TFT-LCD\n
+b. IPS\n
+c. OLED(AMOLED)\n
+d. Retina\n\n
+
+
+    </string>
+
+
+    <string name="smartphone_display_tft_lcd">
+        TFT-LCD:\n\n
+
+LCD (Liquid Crystal Display):\n\n
+        An LCD is a flat-panel display that is based on the light-modulating properties of liquid crystals. Although LCDs are very thin, they are composed of several layers. Those layers include two polarized panels with a liquid crystal solution between them  light is projected through the layer of liquid crystals and is colorized, which produces the visible image.\n\n
+        The important thing to note is that the liquid crystals do not emit light themselves, so LCDs require a backlight. They are thin, light and generally inexpensive to produce, and the most mature display technology used in smartphones.\n\n
+        Some of the advantages of LCDs include high brightness, consistent color fidelity at different viewing angles, better color sharpness thanks to the use of an RGB matrix, and longevity (LCDs are not susceptible to burn in, though they can suffer temporary image retention). They also tend to exhibit lower contrast and inferior response times compared to some AMOLED equivalents.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_display_ips">
+
+        IPS (In-Plane Switching):\n\n
+
+In-plane switching involves arranging and switching the orientation of molecules of the liquid crystal layer between the glass substrates of the display. Simply put, it’s a technology that is used to improve viewing angles and color reproduction on TFT displays, and that is intended as a replacement for TN (Twisted Nematic) displays.\n\n
+        It is used on LCDs to get up to 178 degree horizontal and vertical viewing angles. So, if you need good quality display at great 178 degree viewing angles you must select an IPS panel display. TFT LCD is not used in even mid ranged devices in 2019 and late 2018. IPS becomes the most affordable and better display.\n\n
+
+
+    </string>
+
+
+    <string name="smartphone_display_oled">
+
+        OLED (Organic Light Emitting Diode):\n\n
+
+OLED, unlike LCD, does not require a backlight, because the pixels contain light-emitting diodes that power on and switch off on an individual basis. The advantages of OLED displays include a theoretically infinite contrast ratio, and also a wider native color gamut, a lesser shift in brightness at different viewing angles, and better power efficiency with low APLs. The downsides include color shifting at different viewing angles, burn-in, and lower power efficiency in high APL applications.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_display_retina">
+
+        Retina Display:\n\n
+Retina display is made by apple and they call it retina as it has around 326 or above PPI (pixels per inch) which is not possible for human to detect a single pixel easily. It means I will be sharp and crisp to look and they optimize it so perfectly that the color reproduction is also so good as well as viewing angles are quite decent. But recently there are more sharper displays are coming from different brands with over 500 PPI which is crazy sharp to look at.
+
+
+
+    </string>
+
+
+    <string name="smartphone_display_hdr_support">
+
+        HDR Support:\n\n
+
+HDR, or high dynamic range, is a display feature in some newer devices and future flagships that promises a more lifelike media-viewing experience. Here’s the simple explanation: HDR-capable displays have a high peak brightness, giving scenes more detailed shadows without sacrificing detail in highlights. On top of that, they can display wider color ranges and richer color depths, leading to a higher number of colors with more steps in each color gradient.\n\n
+        This is because HDR displays support wide color gamuts (DCI-P3 is currently the most widely supported wide color gamut), and also support 10-bit color.This theoretically allows HDR-enabled smartphones to display over 1 billion colors. As of now, flagship smartphones are starting to support the HDR10 and Dolby Vision standards.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_display_contrast_ratio">
+
+        Contrast Ratio:\n\n
+
+This is the ratio of a display is peak brightness to its black level. OLED displays have a theoretically infinite contrast ratio because the pixels can be completely switched off, though in practice, ambient light prevents this from being realized except in a completely dark room. Thus, OLED panels can improve their contrast ratio by reducing screen reflectance.\n\n
+
+
+
+    </string>
+
+    <string name="smartphone_display_verdict">
+
+        Recommendation:\n\n
+
+Based on your choice for you budget you should get at least and IPS display with 1080p display that is quite decent for almost every task like movie watching, gaming, reading pdf and documents and browsing internet with crisp text is not an issue but remind that processor should also be decent like Snapdragon 636,660,710,exynos 7 series and 9 series with octa core, kirin  970, 710 etc. and for higher end go for 1440p with Snapdragon 845,855, Kirin 980,exynos 9 latest series etc. are best one to support 1440p display.  And for Viewing angles just IPS is good enough and if you want better color and contrast you can go for higher end OLED display that is simply the best choice.
+
+
+    </string>
+
+
+    <string name="smartphone_battery_intro">
+
+        Battery:\n\n
+Battery is one of the most important factors for many people in case of buying any smartphone. As a smartphone user you might be using for long time so keeping the battery juice is so much important before buying and electronics product. Here I will give you some basic idea about battery and types and which is good and which one you should look for buying.\n\n
+
+
+    </string>
+
+
+    <string name="smartphone_battery_types">
+        Types of cellphone batteries:\n\n
+a. Nickel-cadmium (NiCd)\n
+b. NiMH (NiMH)\n
+c. Lithium-ion (Li-ion)\n
+d. Lithium Polymer (Li-Pol)\n\n
+
+        But now the Ni-Cd and NiMH batteries are not used anymore in smartphones as more advanced Li-Ion is here to fit into mobile industry. And the latest one is here is Lithium-polymer battery which also being used in some recent devices.\n\n
+
+
+
+    </string>
+
+    <string name="smartphone_battery_capacity">
+
+        Battery Capacity:\n\n
+
+A battery capacity is a measure that indicates how much electricity this battery can give for some time. It is measured in milliampere-hours (MAh).\n\n
+        A larger one will provide you more battery capacity and it will last longer but It will take more time to recharge itself. Always you should choose the battery capacity based on your uses and how intense work you do on it. If you want to use it for much longer than you have to go for more MAh battery.\n\n
+        The more the feature the more you will use it and we use our smartphone for so many reason like taking videos, photos, browsing internet, playing online games etc. suck up tons of juice from battery.\n\n
+
+
+    </string>
+
+
+    <string name="smartphone_battery_and_processor_optimization">
+
+        Battery and Processor:\n\n
+
+There is a relationship between good battery like and good quality and power efficient processor and how much well the processor is like more recent version is always has better architecture and it has like 14nm process or better like 7 nm or 12 nm based on its price and specification, 7 nm is not very common to find only the best smartphones comes with it and it is very power efficient and more optimized for longer uses. 14 nm is mostly available in the market that you will find but do not buy that has 28 nm process which is bad in 2019. Go for at least 14nm or close to 7 nm based on your budget. This will give you better performance as well as good battery life.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="smartphone_battery_verdict">
+
+        Battery Recommendation:\n\n
+
+My recommendation for buying smartphone for optimal performance is first check the processor used in it. Normally I have seen Qualcomm Snapdragon 600 series and 800 series has very good quality battery efficiency and also the latest Samsung exynos has good battery life but in recent version like 7 and 9 series exynos are good, you will also find Huawei kirin processor that come with latest 7 nm process and midrange have 14nm process too. But I used a lot of Snapdragon based phones so my choice will be that brand. Now check for Battery capacity That is which one has more of it like 4000 MAh and 5000 MAh are quite good for lasting all day with heavy uses. Just do not go for less than 3000 MAh in recent times. Also remember the processor used in it and then check battery. The less the Nano-meter(np) the better and more the capacity the better.\n\n
+
+    </string>
+
+
+    <string name="smartphone_ram_intro">
+
+        What is ram?\n\n
+Ram (Random Access Memory).It is called random access memory because it can be read and written at any point without needing to wait in the queue of process is the ultimate part of any compute capable machine that helps to load and execute task and specially, when you use a tons of apps in smartphone you get to know that how important it is for loading your apps. So, the knowledge about Ram is so much important when buying your smartphone.\n\n
+
+    </string>
+
+    <string name="smartphone_ram_why_important">
+
+        Why is ram so important?\n\n
+Ram is the to help processor load and execute task and for doing multiple task you need ram if you ran out of ram your smartphone will lag a lot you will find it not so smooth rather your task will hang a lot when you have less amount ram on your device.\n\n
+
+
+
+    </string>
+
+    <string name="smartphone_ram_why_need_more_ram">
+
+        Why we need more ram?\n\n
+
+As the Modern world the technology is increasing and our daily necessary also getting more demanding like playing very high quality games, Shooting 4k videos, 4G, 5G, WIFI internet browsing, using multiple apps same time etc. need a lot of processing power and ram to access then and load them properly. So, day by day the importance of implementing more ram on smartphone is so vital.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_ram_how_much_enough">
+
+        How much ram is enough?\n\n
+It depends upon your need and use and OS (Operating System) as If you use android OS then you need more ram than IOS based Iphones as the platform and optimization are factors too when thinking about how much ram is proper. So, Android users need at least 3GB of ram to do daily task properly like games, shooting videos, watching 4k content, internet using with multiple tabs and for multitasking. But do not expect butter smooth performance in 3GB of ram now-a-days as its for average users and budget smartphone users. But if you want better performance than go for 4gb variant of that smartphone or if you have higher budget use 6gb of ram that is quite enough for any android phone at my writing time of January 2019 but this may change in future.\n\n
+        Here we also have 8GB variant of Samsung Note 9, OnePlus 6 and 6T with 8GB of ram etc. But they are expensive if you go for 8 GB one so for most of budget people 3 GB or 4GB is quite good and for higher end users and more smooth performance and intensive multitasking use 6GB one.
+
+
+    </string>
+
+
+    <string name="smartphone_ram_optimization_android_vs_ios">
+
+        Ram Optimization Differences:\n\n
+
+        Ram behaves little differently in accordance with your OS and optimization. As in the previous section I told you guys that in android OS we need more ram but now let see why on IOS we do not need that much of ram on iphones, ipads etc. IOS has much better optimization than android so it does not require that much ram to operate smoothly. It can do all tasks and daily needs so smoothly in 2GB ram only that even 4GB ram android phones cannot give you. Like now Iphones are also using 4gb ram that compete with android 6GB and 8GB ram. IphoneX and Iphone Xs max do not have 8 GB of ram but it defeats all other 8GB android phones for its good apps and OS optimization. \n\n
+
+
+    </string>
+
+
+    <string name="smartphone_ram_types">
+
+        There are different types of ram modules:\n\n
+        1. LPDDR3
+        2. LPDDR4
+        3. LPDDR4X
+
+
+    </string>
+
+
+    <string name="smartphone_ram_lpddrs">
+
+        LPDDRs:\n\n
+The LPDDR or Low Power DDR is also known as Mobile DDR or m-DDR. These are specially designed Double data rate Synchronous DRAM for the mobile smartphones and Tablet PCs. The essence of LPDDRs lies in the fact that they are design to consume low power at around 1.8 volts as compared to the 2.5 volts RAMs used in other devices.
+
+
+    </string>
+
+
+    <string name="smartphone_ram_lpddr4">
+
+        The LPDDR4, as should be evident, is the fourth generation of LPDDR RAM technology. In essence, it can be considered to be the DDR4 alternative for the mobile devices. While DDR4 has already been used in high-end PCs and similar systems, their mobile equivalent the LPDDR4 finds a vital use in smartphones and tablets.\n\n
+        The LPDDR4 brings ahead faster functionality and lower power consumption. The fundamental difference between then DDR4 RAM used in PCS and the LPDDR4 lies in the fact that they come with smaller bit bus. This helps in lower power consumption.\n\n
+        The LPDDR4 improves the data rates by almost double when compared to the previous generations, the LPDDR3. You can get data rates as high as 3200Mb per sec with LPDDR4 as compared to the 1600 Mb per sec performance on the LPDDR3. The LPDDR3 had one channel, while the LPDDR4 opts for a two-channel design. It offers you 16 Bits per channel, thus providing you a total of 32 Bits. This can be helpful in lowering the power requirements of the core. The short data path ensures that the lower power consumption. This can be quite helpful in improving the operational speed and performance. The LPDDR4 offers a marginal improvement in the power consumption from 1.2 volts on LPDDR3 to 1.1 Volts on LPDDR4.\n\n
+
+
+    </string>
+
+    <string name="smartphone_ram_lpddr4x">
+
+        LPDDR4X:\n\n
+
+
+LPDDR4X is another fourth-generation Low Power DDR RAM developed for the mobile computing devices. In fact, there is not much of a difference between the LPDDR4 and LPDDR4X as such.\n\n
+
+In fact, the LPDDR4X has been planned as a small optional upgrade to the LPDDR4 modules. The only difference between the LPDDR4 and LPDDR4X lies in the lower power consumption – still lower than that on the former. As we have already found above, the power consumption levels on LPDDR4 have been reduced marginally from the LPDDR3. This is further reduced with LPDDR4X.\n\n
+
+        In essence, the LPDDR4X reduces the output driver power to achieve this. You will be able to reach around a 20 percent reduction in the power consumption for the memory system.\n\n
+
+
+    </string>
+
+    <string name="smartphone_ram_verdict">
+
+        Final Verdict:\n\n
+
+Well, the significant difference between the LPDDR4 and LPDDR4X lies in the fact that the latter reduces the power consumption requirements by almost 55 percent, bringing it down to 0.6 Volts. Of course, there are a few minor differentiations apart from that, but in most aspects, the two siblings remain almost identical and offer similar functionalities. Moreover, these RAM modules can be manufactured on smaller systems and thus help you in reducing the associated costs. We expect the LPDDR4X to be available on almost all future generations of processors.
+
+
+    </string>
+
+
+    <string name="smartphone_rom_intro">
+
+        What is Rom ?\n\n
+ROM is Read Only Memory. As the name suggest you cannot write on this type of memory. But the data can be read and processed. The most Natural example of ROM is your smartphones internal storage that you get by default on a smartphone to store your media and files which is a portion of you ROM.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_rom_why_less_than_expected">
+
+        Why we see less ROM than Expected ?\n\n
+You might have noticed that out of 16 GB of a smartphone internal storage memory only 11 or 12 GB is available for you guys to use. That’s because the remaining amount of space is serves as ROM here. Your android OS and some preinstalled apps reside there.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_rom_why_need_more">
+
+        Why we need more ROM ?\n\n
+
+As you can see from the previous question we talked about some portion of ROM is used for your smartphones OS and preinstalled apps and services. So, you cannot expect to get full storage out of a smartphone. For 16GB ROM you get around 11GB, for 32GB ROM you get around 22GB so if you go for higher ROM capacity for smartphone you get more storage as internal storage for your phone. That will help you to store more photos, videos, songs, files and documents for you. It will also help you run your smartphone the more smoother and fluid as compared to less ROM phones. As you know that if you run out of storage you will feel sluggishness in using it.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_rom_how_much_enough">
+
+        How much Rom is enough ?\n\n
+It also depends on your use of smartphone. If you use it for like playing lots of HD games watch 1080P or 1440p movies you definitely need more ROM. Now if you are a basic user then you can go for at least 32GB of ROM as you can also have to check if your smartphone supports external SD card that you can add Storage for your media easily and cheaply. Now in 2019 you can get even 512GB ROM, 256GB and 128GB ROM smartphone that are really expensive but you may think its huge amount but simply not that case because if you shoot 4k videos, play HD games, taking thousands of high quality photos than definitely you need to have those high capacity of ROM smartphone. But I think in budget segment you will find tons of smartphones that has 64GB of ROM as default so if you are on budget you can have it. Before that Always check if there is SD card slot or not.\n\n
+
+
+
+    </string>
+
+
+    <string name="smartphone_rom_verdict">
+
+        Final Verdict:\n\n
+As you guys can now understand the importance of having More ROM as a default on your smartphone that holds all your apps, media, files etc. and for more greater performance you need more storage on your internal memory to run smooth and lag free. But if you want to cheaply increase your storage then check if it has SD card slot then if there is no SD card slot just buy at least 32GB or as my recommendation buy 64GB of ROM smartphone to maintain better performance of your smartphone. If you do not care for it you will get slower and shitty performance in your smartphone. If you have good budget always check 128GB, 256GB ROM phones.\n\n
+
+
+    </string>
+
+
+    <string name="tv_smart_tv_intro">
+
+        Smart TVs\n\n
+Smart Tv is a must thing before buying a modern TV as the television technology seems to have re-defined with the invention of smart TVs. Here is everything that you should know about them!\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_smart_tv_special_features">
+
+        Special Features:\n\n
+
+        1. A smart TV can be connected to the internet with the help of wired or wireless media.\n
+2. Play games and watch your favorite YouTube videos and Netflix shows on your TV for hours.\n
+3. Use social media apps on wide screen using your smart TV.\n
+4. Some smart TVs even have a camera and offer video calling feature. Thus, you can conduct video meetings on larger screen.\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_smart_tv_features_to_consider">
+
+        Features to Consider before buying:\n\n
+1. Interface or Operating system of the TV will help in determining the ease with which you can use your smart TV. The Most popular ones are Google certified and Android TVs. Some of the TV brands offer their own interface as well.\n
+2. Go for the TV with higher RAM to ensure that the processing speed of your TV is not slow while you are multi-tasking.\n
+3. Choose high Storage TV option which is good for recording your loved shows and re-watching them at your convenience.\n
+4. If you want to use your Smart TV as a projector Screen for your phone, go for the option that support phone casting option.\n
+5. Voice control Remote and air remotes are the latest features of smart TV that you can would love to use. Give a voice command and let your TV do the work for you. You can even use some remotes as a pointer device to allow faster navigation.\n\n
+
+
+    </string>
+
+
+    <string name="tv_basic_intro">
+        Basics to know:\n\n
+With the advancement of modern technology there are tons of things that have changed for electronics products and latest features that make peoples buy new product and yes for TV buying its essential to know the huge variety of types of technology, features, category and which one to choose from huge amount of options this tv blog will help you guide through every thing you must know to buy the best TV for your budget and taste. Let’s know about TV technology first and get rid of all the confusions.\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_basic_display">
+        Display of the TV:\n\n
+The display of a tv primarily comprises of HDR, contrast, refresh rate, resolution and the type of display. Here is some of the basic details about these components of display.\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_basic_hdr">
+
+        HDR (High Dynamic Range):\n\n
+HDR stands for High Dynamic Range. In simple term, you can say it is more Colors and finer picture quality while you are watching TV. However, HDR display works only when the content you want to watch is available in HD quality.\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_basic_contrast">
+        Contrast:\n\n
+A TV with higher contrast ratio will have better display on its screen because you even get to see the finest details of picture on your screen. OLED TVs are considered the best when you are looking for a TV with high contrast ratio.\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_basic_refresh_rate">
+
+        Refresh Rate:\n\n
+This refers to the number of times the image on your TV screen is replaced every second. It is measured in FPS or Hz. The higher the refresh rate of your TV, the better will be you viewing experience while you are watching your favorite sports or action movies.\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_basic_resolution">
+
+        Resolution:\n\n
+The sharper the resolution, the better will be the clarity you get on the screen. On the basic of resolution, 3 Types of TVS are available-HD Ready, Full HD(FHD) and 4K or UHD (Ultra HD). HD Ready TVs have 1 million pixels and resolution is 1280*720 which is 720p HD screen.\n\n
+FULL HD TVs are those having 1920*1080 resolution and they are quite good as it has 2 million pixels which is decent sharp for TV. Price starts around $500 or more.\n\n
+Modern TVs having much higher 4k or UHD resolution like 3840 *2160 display resolution is very sharp to look at and it is quite expensive to buy around 800$ or more depending upon all the features and brands. It can get up to more than 3000$ dollar even.\n\n
+There are also 8K 7680*4320 display which is crazy to have and not recommended as its very expensive and not all the content have 4k yet rather 8k is good for future proofing nothing else!\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_display_types">
+
+        Types of display (Display Type):\n\n
+    On the basis of type of display, TVs are into 3 basic types-LED, QLED and OLED TVs. Here is the brief discussion of these 3 types of display to help you in understanding them better.\n\n
+
+
+
+    </string>
+
+    <string name="tv_display_lcd_panel">
+
+        LCD/LED:\n\n
+
+All major TV brands are still selling plenty of LCD-LED TVs. LCD (liquid crystal display) and LED (light-emitting diode) TVs are often thought of as competing concepts, but they actually refer to identical display technology. In an LCD TV, liquid crystals rotate polarized light, effectively acting as a light valve that illuminates all pixels simultaneously. Instead of the pixel-by-pixel lighting of OLED TVs, in a standard LCD TV all light comes from a big energy-guzzling backlight. The result is a uniform brightness, and relatively low contrast images.\n\n
+If you watch in a completely black environment, you\’ll notice blotches and uneven brightness on the panel too, and a lack of shadow detail in dark areas of the screen. That said, images are usually very bright, and very colorful, and you can buy an LED TV in virtually any size you want. They\'re great value.\n\n
+Pros of LCD or LED:\n\n
+
+1. It\’s very affordable\n
+2. Available in any Size\n
+3. Bright and colorful\n\n
+
+
+        Cons of LCD/LED:\n\n
+1. Aging technology\n
+2. narrow Viewing angle\n
+3. Average contrast\n
+4. Poor black level\n\n
+
+
+
+    </string>
+
+    <string name="tv_display_oled_panel">
+
+        OLED:\n\n
+
+Watching an OLED TV for the first time is genuinely a pure joy moment. So smooth, fluid, colourful and contrasty are the images that it\'s really hard to go back to your old LCD or plasma TV. Once you look into that beautiful OLED Display you will never like other Displays!\n\n
+Almost as flat as wallpaper, organic light-emitting diode (OLED) is a breakthrough moment for TVs. Critically, it emits its own light, so the huge backlight used by most TVs isn’t there. As well as being slim, in an OLED display each pixel self-illuminates, so you can control images at an individual pixel level.\n\n
+So, video that features both darkness and extreme brightness, such as a star-filled night sky, looks realistic. With unlimited contrast, it means the whitest whites and the darkest blacks – and everything in between. Expect eye-popping color, and, crucially, lightning-fast response times. There are downsides to OLED too though: it’s very expensive, and no one is quite sure how long panels will last.\n\n
+Pros of OLED:\n\n
+1. The slimmest TV TECH(2.57mm)\n
+2. Self-Lighting pixels\n
+3. More convincing blacks\n
+4. Faster Refresh rates\n
+5. Judder and Blur-free\n\n
+
+Cons of OLED:\n\n
+1. Only Found in 3 Screen Sizes: 55,65 and 77-inch\n
+2. Muted Brightness (1000 nits)\n
+3. Expensive\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_display_qled_panel">
+
+        QLED:\n\n
+Another premium TV technology that\’s only recently gone on sale, QLED (quantum-dot light emitting diode) is very different to OLED. QLED panels are not self-emissive, instead lit by LEDs along the edge (just like an Edge LED-backlit LCD). The advantages of QLED TVs are that they use a quantum dot color filter and are capable of significantly higher brightness than OLED TVs. Cue eye-popping color, but slower response times than an OLED TV. However, the contrast and blacks aren\’t as good as OLED TVs.\n\n
+Pros of QLED:\n\n
+1. Excellent Whites\n
+2. Ultra-bright (1500 nits)\n
+3. Variety of Screen Sizes 49-88 inch\n\n
+
+
+        Cons of QLED:\n\n
+1. Not a slim as OLED (25.4mm)\n
+2. Overly Bright\n
+3. Slower Refresh Rates\n
+4. Less convincing black than OLED\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_display_recommendation">
+
+        Recommendation:\n\n
+
+        What you decide to buy largely comes down to price. Future innovations could turn that advice on its head, but for now, if you have money to burn and want the best, go for an OLED – no question. Want a brighter panel? Go for a QLED. If price is more of a concern and you don\'t need the blackest blacks around, then an LED-backlit LCD TV could well be the one you want – they might not have quite the same level of contrast, but depending on the manufacturer\'s technology they could come very close.\n\n
+
+
+    </string>
+
+    <string name="tv_sound_quality">
+
+        Sound Quality of TV:\n\n
+The sound of the TV is measured in watts where the higher the watts, the louder will be the maximum volume of your TV. The latest TV these days are equipped with pre-defines sound modes for gaming, sports, movies which automatically tune the volume of your TV viewing experience better.\n\n
+The most preferred sound technology in TVs these days are Dolby Digital, DTS Premium and Harman Kardon. To enhance the sound quality of your TV, you can always attach speakers and soundbars to your TV.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="tv_sound_bar">
+
+        SOUND BAR:\n\n
+Even the most expensive TVs have poor sound quality so in order to get rich sound from your great viewing experience use sound bars. Sound bar is so popular as for $300 or less they can significantly increase the sound quality and yet they are slim and look standard with your TVs.\n\n
+Some TVs and sound bars also support Dolby Atmos which is a newer audio standard from Dolby that includes overhead sound for a fuller listening experience. While you can get the Atmos effect using in-ceiling speakers, many soundbars have Atmos audio processing and upward firing speakers built-in to create more realistic sounding audio that doesn\'t require the multiple speaker placement that you would have with 5.1 or 7.1 Surround Sound.\n\n
+You never have to think about additional cable clutter. Nearly All the current TVs feature at least one HDMI Port with Audio Return Channel (ARC) capability. This standard HDMI feature provides lets you use HDMI as both an input and audio output, letting you not only send audio to the TV from external media devices, but also out to your sound bar. That ARC connection means that you get great sound for all your devices, with no special receiver needed.\n\n
+
+    </string>
+
+
+    <string name="tv_screen_size_optimization">
+
+        Screen Size of TV:\n\n
+Both viewing distance and screen size are important factors that determine the picture quality that you are able to enjoy on your TV. The screen size of TV is measured diagonally. If you are confused about what screen size will be idea for your desired TV location, here are some tips that will help you out.\n\n
+Measure the distance between the place where you will be sitting to watch TV and the wall where you want to affix your TV. Depending on that, here is the right screen size guide for you.\n\n\n
+
+              Distance---------------------------ideal Screen Size
+
+               5-6 fit						        32 inches
+
+               6-9 fit		                        40-45 inches
+
+               9-10 fit         				    50 inches
+
+              10-12 fit				                60-65 inches
+
+
+
+
+    </string>
+
+
+    <string name="tv_connectivity_intro">
+
+        Connectivity:\n\n
+The Connectivity options that you want in your TV will solely depend on your personal need. The most common input connectivity option in the modern-day TVs are USB ports, HDMI ports and Bluetooth connectivity feature.\n\n
+
+
+
+    </string>
+
+    <string name="tv_connectivity_usb">
+
+        USB:\n\n
+It is used for connecting pen drives, hard drives, internet dongles and digital camera to your TV.\n\n
+
+
+    </string>
+
+
+    <string name="tv_connectivity_hdmi">
+
+        HDMI:\n\n
+It has more connectivity options and helps in transferring the best audio and video quality between two devices. You can connect a set-up box, laptops, DVD player fire TV stick, gaming console like PS4 or Xbox One etc. using HDMI port.\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_connectivity_bluetooth">
+
+        BLUETOOTH:\n\n
+It your TV has Bluetooth connectivity and feature, you can even connect devices to your TV using cables.\n\n
+        When it comes to output ports of you TV, you will find these features in the TVs, that are available in the market these days.\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_connectivity_audio_jack">
+
+        3.5mm Audio Jack:\n\n
+It is used for connecting speakers, soundbars, headphones to your TV.\n\n
+
+
+    </string>
+
+
+    <string name="tv_connectivity_hdmi_arc">
+
+        HDMI ARC:\n\n
+An HDMI Arc port gives you an output option to connect a home theatre system to your TV.\n\n
+
+
+
+    </string>
+
+
+    <string name="tv_connectivity_rca_audio_output">
+
+        RCA Audio Output:\n\n
+This is the traditional output port that is used for connecting home theatres and soundbars to your TV using cables.\n\n
+
+
+    </string>
+
+
+    <!--Desktop Mouse Strings-->
+
+
+    <string name="desktop_mouse_design_intro">
+
+        There are lot of people who like mouse that looks gorgeous, stylish, good build and that has RGB lighting on it. It makes perfect sense for them to buy better looking mouse.\n\n
+
+
+
+    </string>
+
+    <string name="desktop_mouse_design_size">
+
+        SIZE \n\n
+
+        The first characteristic to consider is a mouse’s size. Mice that are intended to be portable tend to be smaller, and mice that are meant to sit on a desk tend to be larger. That’s perfectly logical, of course. Which is better for you comes down to the size of your hands – someone with smaller hands might choose a portable mouse just for its smaller dimensions and to user preference.\n\n
+
+
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_design_ergonomics">
+
+        ERGONOMICS\n\n
+
+Ergonomic mice, or those that are designed to reduce hand and wrist strain, are usually on the large end of the spectrum. They tend to conform to the hand, and they coax users into holding their fingers, hands, and wrists at angles that allow for more comfortable long-term mousing sessions. They’re also usually made for right-handed users but unfortunately, a much smaller number of mice are designed specifically for lefties.
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_design_grip">
+
+        GRIP\n\n
+
+
+One differentiating feature is a mouse\’s style of grip. There are three common grip types: palm, claw, and fingertip.\n\n
+
+        Some mice, usually larger models, have a design optimized for laying your palm across the top and pushing the most around with the entire hand. Other, typically smaller mice use designs aimed at a fingertip grip, where the user grasps the mouse with the fingertips to guide it. And yet other, narrower mice are designed such that the palm rests on the back of the mouse and the fingers are most comfortable resting on top, forming a claw.\n\n
+
+        Which grip works best for you comes down to personal preference, as well as your desired mouse size and shape.\n\n
+
+
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_design_buttons_dial">
+
+        BUTTONS AND DIAL\n\n
+
+Most mice have at least two buttons, commonly referred to as the left and right buttons. Most operating systems assign the left button to primary actions like selecting objects and clicking on-screen items, and the right button to secondary actions like opening menus. The main exception is Apple’s line of mice, which have a single button and use various tricks to emulate a right button click as necessary.\n\n
+
+        Then, more complex mice are available that include additional buttons on the top, side buttons for accessing various special actions, and wheels that scroll and perform other actions. In many cases, these multi-button mice have special software that allows the buttons and wheels to be customized and remapped, enabling a wide range of individualized functionality.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_design_lighting">
+
+
+LIGHTING\n\n
+
+
+LED lights are another feature, primarily found on gaming mice. They add some additional flair, as well as feedback during gaming systems. Usually, such mice come with software that can customize the lighting and match it with a user\’s installed games.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_dpi_explanation">
+
+        DPI\n\n
+
+        Mouse sensitivity is measured in Dots per Inch (DPI for short) or Counts per Inch (CPI). The higher the DPI is, the faster the mouse movement on the screen is. Likewise, the higher the DPI is, the less physical distance you need to move the mouse. So, if you want to save yourself the effort and make smaller hand movements, choose a mouse with a higher DPI.\n\n
+
+        However, there is another side of the coin. You need to have a very steady hand and make very accurate cursor movements. To sum up, if you make mostly fast sweeping movements over a large area, you need a mouse with lower DPI. If you make precise movements over a smaller area, you have to look for a mouse with higher DPI.\n\n
+
+
+        Depending on the genre you prefer, the DPI may or may not be important. In FPS, where accuracy is of critical importance, the DPI does matter. Higher DPI is not always better.\n\n
+
+        1. Most normal users don’t need to worry about DPI at all\n\n
+2. Higher DPI is great for high-resolution display or multi-monitor setups. It enables you to traverse the screen quicker.\n\n
+3. For gaming, high DPI allows you to act and react more quickly. Lower DPI gives you greater control and precision.\n\n
+4. Gamer need a mouse with adjustable DPI settings.\n\n
+5. For Photoshop or other apps that need a high level of precision they need lower DPI mouse.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_mouse_dpi_recommendation">
+
+        Recommendation\n\n
+
+        Good gamer mice usually allow you to increase the DPI to at least 5000. You may stumble upon rodents featuring the staggering 12,000 DPI, although I personally do not know a gamer who uses more than 3000 DPI. It takes some time to find a sweet spot and adjust the DPI to your playing technique.\n\n
+
+Last but not least, you\’d better settle for a mouse that allows you to adjust the DPI on-the-fly, so that you can switch to a low DPI for a precise headshot and increase it to strafe enemies.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_dpi_polling_rate">
+
+       Polling Rate\n\n
+
+        The polling rate refers to how many times the mouse is reporting its current position to the computer. The polling rate is measured in Hz and it has a major bearing on your rodent\’s performance.\n\n
+If you use Windows OS, the default polling rate is 125Hz, which means the computer receives an update for the position of the mouse pointer once per every 8ms. The faster the polling rate is, the more accurately the cursor is resolved on the screen. That example was just illustrative, though.\n\n
+
+For competitive gaming, you need a mouse offering no less than 500Hz polling rate (2ms). The best gamer mice come with a 1000Hz polling rate or 1ms, but the difference between 1ms and 2 ms is negligible.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_durability">
+
+        DURABILITY\n\n
+
+        If you are buying a mouse then you must be careful of the durability issues of that mouse and how long time you want to use, which purpose you will use mouse for it depends on these factors.\n\n
+Professional Gamers must have to buy the most durable mouse as they play shooting, action, adventure game, competitive games that need a lot of mouse click and it puts mouse in huge pressure. So, cheap quality mouse which is rated 1M click or anything below 20M click is not proper for them at all.\n\n
+Buy mouse which is rated at least 20M (Million) click or 50M click if your budget is higher because they are more durable, stable, accurate and optimized for professional gamers.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_mouse_gaming_intro">
+
+        GAMING MOUSE \n\n
+
+        Gamers are the people who generally buy gaming centric mouse. There are lots of reasons. A good mouse cannot make you better gamer but it will make your gaming experience much better, easier and accurate. Specially when you do long term gaming. In general, the advantage would be like:\n\n
+
+        1. Comfortable\n\n
+2. Durable\n\n
+3. Great Design\n\n
+4. Accuracy\n\n
+5. High Quality Sensor\n\n
+6. Programmable Buttons\n\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_gaming_types">
+
+        TYPES OF GAMING MICE AND GENRE\n\n
+
+
+        There are lots of types of mouse out there and each of them has their advantage and disadvantages. It depends on how you use it for and which types of Games you will play with it. There are several types of gaming mouse out there according to gaming genre like: \n\n
+
+        1. All purpose\n
+2. FPS\n
+3. MMO\n
+4. RTS\n
+5. Customizable\n
+6. Variable Weight\n\n
+
+
+    </string>
+
+
+    <string name="desktop_mouse_gaming_all_purpose">
+
+        ALL PURPOSE\n\n
+
+
+        These are the most common type of gaming mouse in the market. They come in all shapes and size. They have to be equally good in many gaming types like FPS, Action/Adventure, AAA open world game, MMO etc. If you play a wide variety of games and need mouse that can handle them all, this is the best choice for them.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_gaming_fps">
+
+        FPS MICE\n\n
+
+        FPS mice are what you will want to pick for games like Call of Duty, Rainbow Six, Battlefield, Counter-Strike etc. like first person shooter games and FPS mice is really well optimized for them as they have dedicated sniper button, zoom in and zoom out button, you can even program which button do which work in gaming and map them. So, for FPS gaming get the FPS mouse.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_gaming_mmo">
+
+        MMO MICE\n\n
+
+
+        For fans of World of Warcraft, Final Fantasy XIV, Star Wars: The Old Republic and whatever is the next big massively multiplayer title that definitely will not fail within its first year, an MMO mouse the way to go.\n\n
+These bulky mice have buttons upon buttons: perfect for firing off complex skill rotations with down-to-the-second precision. Many of them even go a step further and let you assign alternate button maps that you can access with a flick of a finger.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_gaming_rts">
+
+        RTS MICE\n\n
+
+It means Real-time Strategy game like StarCraft, League of legends etc. are quite famous in strategy genre and if you are looking for the perfect match for RTS gaming mouse then better is to buy all-purpose mouse that has light on extra buttons so that you can see what is happening and notice it properly.\n\n
+
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_gaming_customizable">
+
+        CUSTOMIZABLE\n\n
+
+        Customizable mice are the Ferraris of the gaming-peripheral world. They are normally expensive, flashy, gorgeous looking. But not good for average gamer as it sometimes goes beyond anyone’s budget range.\n\n
+If you care for better quality, amazing build quality and design and play lots of competitive games that need more accuracy then buy highly customizable, finely tuned device.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_gaming_variable_weight">
+
+        VARIABLE WEIGHT\n\n
+
+        Weights can have huge on how you play you favorite games. Most mice come with fixed weight. But the advantage you are getting in variable weight mice are like you are feeling too light or too heavy sometimes then you need to get comfortable by changing it.\n\n
+If you like heavy mouse just add more weights on them or you like more lighter then remove that extra weight from that mice simple!\n\n
+
+
+    </string>
+
+    <string name="desktop_mouse_gaming_final_thought">
+
+        MY THOUGHTS\n\n
+
+By getting the knowledge we shared here, try to choose which types of mouse is better and which games you play, your budget consideration and then choose your desired mouse that suits you the most with the budget.\n\n
+See our latest post in Desktop post section where I will give mouse model with best price and performance mice in every budget.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_types_intro">
+
+        TYPES OF MOUSE\n\n
+
+        Mouse are of various types and we categorized them by different technology, purpose, look, quality, customizability and comfort etc. segments:\n\n
+
+1. Wired vs. Wireless\n
+2. Laser or Optical\n
+3. Ergonomics\n
+4. Full sized / Travel sized\n
+5. Gaming / general\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_types_wire_vs_wireless">
+
+        WIRED VS. WIRELESS\n\n
+
+There are several reasons to choose either of them as both have advantages and disadvantages. Let’s check them side by side:\n\n
+
+
+Wired Advantages:\n\n
+
+1. It does not need to charge\n
+2. Generally Cheaper.\n
+3. Better input latency!\n
+4. Faster response\n\n
+
+Wired Dis-advantages:\n\n
+
+1. It has cables.\n
+2. Cannot use it from long range\n
+
+Wireless Advantages:\n\n
+
+1. Can be used from long range\n
+2. It does not have cables\n
+3. Just use in anywhere!\n
+
+Wireless Disadvantages:\n\n
+1. Need to charge it\n
+2. Expensive\n
+3. Poor latency input\n
+4. Slower response than wired\n
+
+WIRELESS MICE ARE IMPROVED\n\n
+
+We know that wireless mouse needs to charge and the poor input latency issues happen which hurts the gamer most as gamers prefer absolute consistency and reliability that comes with wired mouse.
+
+But situation is now changing as the wireless technology is improving a lot and now lots of good quality wireless mouse out there which are almost as quick and responsive as original wired mouse! We need to think about the benefit of it as it can be used in any places in the room without the wire and it looks clean and convenient too.
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_types_bluetooth_wireless">
+
+         Bluetooth Is Best for Wireless Mice\n\n
+
+When buying a wireless mouse, your choice is between radio frequency (RF) or Bluetooth models. RF mice may be slightly more responsive, and are much easier to set up simply plug in the dongle that comes with it.\n\n
+The downside is that the dongle hogs one of your USB ports, and is near-impossible to replace if you lose it. RF devices are also more prone to interference.\n\n
+Bluetooth is more convenient. It won’t use a precious USB port, and battery life can easily run to a year or two. It’s also a lot easier to share a single mouse between several computers.\n\n
+        Setting up a Bluetooth mouse requires a few extra steps, and you have to wait for it to reconnect when you boot or wake your computer. But for the most part, Bluetooth is now the way to go.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_types_laser_vs_optical">
+
+        LASER VS OPTICAL\n\n
+
+        The sensor is the heart of and soul of a good mouse. There are a lot of debate The Laser vs. Optic mouse for so many years. Today we will get complete knowledge about those two technologies in detail.\n\n
+
+Laser and Optical both are actually the variation of same technology. The main difference is that Optical mouse uses LED to reflect off the below surface, while a laser mouse uses a LASER to track movement.\n\n
+
+
+Advantages are more on LASER mouse like:\n\n
+
+1. Laser mouse are sensitive\n
+2. Work on various surfaces\n
+3. Work on glass\n
+4. Has Higher DPI (smoother)\n
+5. Better Acceleration\n
+6. it is more accurate and precise\n
+
+Disadvantage of Laser mouse is rare like:\n\n
+
+They can move across the screen quicker due to higher DPI ratings and this causes some problems. This is where the mouse pointer travels further when you move the mouse quickly than it does when you move it slowly. Many gamer’s hate this. So, many of them sometimes prefer the steadiness of an optical mouse over the increased precision of a laser one.\n\n
+
+
+Advantage of Optical mouse is less it only works better in smooth surface and when you have good mouse pad and large mouse pads is very helpful if you buy Optical mouse as it does not work on dust and glass etc. and many other rough surfaces properly.\n\n
+
+
+Disadvantage of Optical mouse:\n\n
+
+
+1. It needs good surface\n
+2. Less accurate\n
+3. Poor precision rate\n
+4. Less smooth\n
+5. Poor DPI etc.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_types_ergonomics">
+
+        ERGONOMICS\n\n
+
+        One of the most important factors of any computer peripheral is how comfortable it is to use for longer period of time. It is very important for the people who work in office and have to use mouse all time and for gamers as well who play game for longer time.\n\n
+
+How comfortable they are depended on many conditions:\n\n
+
+1. Grip you prefer\n
+2. Size of mouse\n
+3. Shape of mouse\n
+4. how you hold mouse\n
+
+Based on this you choose which one you are comfortable with you hand position.\n\n
+
+Ergonomics in mice are important because they can help prevent repetitive stress injuries. Research before buying that this mouse it comfortable for me to hold than others and that is important for any buyer to consider.\n\n
+Ergonomics mice are designed to fit properly in your hand in natural way that helps to reduce strain on your finger and wrist. They also have extra buttons within easy reach of your digit.\n\n
+
+
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_types_fullsize_vs_travelsize">
+
+        FULL-SIZED VS TRAVEL SIZED \n\n
+
+This category is exactly what it sounds like. Although there is no universal sizing among manufacturers, many mice come in two different sizes: full or travel.\n\n
+ Even if you never plan to remove your mouse from its home, travel mice can often be more comfortable for people with smaller hands. Likewise, a road warrior may want to stick with a full-sized device because ill-fitting mice can cause discomfort.\n\n
+
+
+
+
+
+    </string>
+
+
+    <string name="desktop_mouse_types_general_vs_gaming">
+
+        GAMING / GENERAL USE\n\n
+
+While buying a mouse as a user we know what purpose we are buying. If you want a complete package that can serve all needs in our budget range and that can be used in office work, gaming, editing, graphics design work etc. then we choose a mouse in general purpose mouse. They are good for normal works like:\n\n
+
+
+1. Office work\n
+2. Normal Editing\n
+3. Light Drawing\n
+
+They are balanced in every department but not best in all sectors. You can buy those quite cheap compared to high quality Gaming mouse.\n\n
+
+But there are lot of people who want the most accurate and reliable performer they choose expensive options that is suitable for their need only like gaming purpose. Gamers need good quality mouse with better build, nice design, comfortable to hold longer time, accurate, fast response etc. are part of good gaming mouse. They are amazing in many departments like:\n\n
+
+
+1. Long time Gaming\n
+2. Proper Editing\n
+3. Perfect drawing\n
+4. Accurate Graphics work\n
+5. Comfortable to hold\n\n
+
+
+
+
+
+    </string>
+
+
+    <string name="desktop_processor_card_cpu_specs_card_intro">
+
+        CPU Specs\n\n
+
+        If you want to know about cpu/processor you must have to understand its basic specification let’s see what are those at  glance and this will help you massively choosing best cpu for yourself.
+
+
+    </string>
+
+    <string name="desktop_processor_card_cpu_specs_card_clock_speed">
+
+        a) Clock Speed\n\n
+Measured in gigahertz (GHz), this is the speed at which the chip operates, so higher is faster. Modern CPUs adjust their clock speeds up or down based on the task and their temperature so you\'ll see a base (minimum) clock speed and a turbo (maximum) speed listed.
+
+
+
+    </string>
+
+
+    <string name="desktop_processor_card_cpu_specs_card_cores">
+
+        b) Cores\n\n
+These are the processors within the processor. Modern CPUs have between two and 18 cores, with most processors containing four to eight. Each one is capable of handling its own tasks. Unless you\'re a bargain-hunter, you want at least four cores.
+
+
+
+    </string>
+
+    <string name="desktop_processor_card_cpu_specs_card_threads">
+
+        c) Threads\n\n
+
+This is the number of independent processes a chip can handle at once, which in theory would be the same as the number cores. However, many processors have multithreading capability, which allows a single core to create two threads. Intel calls this Hyper-Threading and AMD calls it SMT(Simultaneous Multithreading) More threads means better multitasking and enhanced performance on heavily-threaded apps such as video editors and transcoders.
+
+
+
+    </string>
+
+    <string name="desktop_processor_card_cpu_specs_card_tdp">
+        d) TDP\n\n
+
+        The Thermal Design Profile/Power (TDP) is the maximum amount of heat that a chip generates, as measured in watts. By knowing that for example the Intel Core i7-8700K has a TDP of 95 watts, you can make sure you have a CPU cooler that can handle that amount of heat dissipation and also that your PSU can provide enough juice.
+It\'s good to know what your TDP is so you can get the right cooling and power equipment to support your CPU. Also, a higher TDP usually coincides with faster performance.
+
+
+
+
+    </string>
+
+
+    <string name="desktop_processor_card_cpu_specs_card_cache">
+
+        e) Cache\n\n
+A processor\s on-board cache is used to speed up access to data and instructions between your CPU and RAM. There are three types of cache: L1 is the fastest, but cramped, L2 roomier, but slower, and L3 spacious, but comparatively sluggish. When the data a CPU needs isn\’t available in any of these places, it reaches for the RAM, which is much slower. The more cache the more the faster it gets.
+
+
+
+    </string>
+
+    <string name="desktop_processor_card_cpu_specs_card_ipc">
+
+        f) IPC\n\n
+Even if you have two CPUs that have the same clock speed and same number of threads, if they\’re from different companies, or built on different architectures from the same company, they will produce different numbers of IPC (instructions per clock cycle). IPC is heavily dependent on the CPU\'s architecture, so chips from newer generations (ex: an 9th Gen Core i7 versus an 8th Gen Core i7) will be better than older ones.
+IPC is not usually listed as a spec and is usually measured through benchmark testing, so the best way to learn about it is to read reviews.
+
+
+
+    </string>
+
+
+    <string name="desktop_processor_card_turbo_boost">
+
+        Intel Turbo Boost Technology\n\n
+Intel Turbo Boost technology increases the processor frequency when you need more work load and depending upon your task. It does it by taking advantage of thermal and power headroom when operating below specific limits. That means when you do simple task it will work at low speed and frequency to save power and do increase speed at high load to adapt the situation.
+
+    </string>
+
+
+    <string name="desktop_processor_card_hyper_threading">
+
+        Intel Hyper-Threading technology\n\n
+It has 2 virtual cores named as thread per main physical core. It means that if you buy hyper-thread enabled processor it will give you 2 more thread per core and if the processor has 4 physical core then virtual core would be 4 time 2 is 8 thread that will help to do multiple work more fluently and you can get more work done in parallel thus complete your task sooner.
+
+    </string>
+
+
+    <string name="desktop_processor_card_smart_cache">
+
+        Intel Smart Cache\n\n
+It will help to reduce latency and improve processor performance by dynamically allocating cache to each processor and you should guys know that more the cache the more speed the processor gets. Like for example 6MB cache on core i5 is faster than 4MB cache core i3 for sure.
+
+
+    </string>
+
+
+    <string name="desktop_processor_card_in_built_gpu">
+        Built in Graphics\n\n
+
+       That is built-in graphics on CPU that can do daily simple task like High Definition video playback, photo editing, video conversion and playing simple games on pc but this is not enough for high workload or for professional editing and playing modern games at decent fps. But this is just given to you for basic graphical task. There are UHD 620,630,640 etc. version of that you should check according to processor model like core i3, i5, i7, i9 have different version of UHD graphics.
+
+    </string>
+
+    <string name="desktop_processor_card_overclock">
+        Processor core/Clock/ OC(Overclock)\n\n
+
+Overclocking, the practice of pushing a CPU to its limits by getting it to run at higher-than-actual clock speeds, is an art form that many enthusiasts enjoy practicing. But, if you\'re not in it for the challenge of seeing just how fast you can get your chip to go without crashing, overclocking isn\'t worth the money.
+In order to make your CPU achieve higher clock speeds than it is rated for out of the box, you\'ll likely spend extra on an enhanced cooling system and an overclocking-friendly motherboard. While all recent AMD chips are overclockable to some extent, if you want to dial up an Intel chip, you\'ll have to pay extra for one of its K-series processors. By the time you factor in all these extra costs, you\'d be better off budgeting another $50-$100 for a CPU that comes with higher clock speeds out of the box. And remember, even if you do get all the right equipment, you could still damage your CPU by pushing it too hard or end up with less-than-stellar results.\n\n
+
+Top priority for processor before buying is the number of cores, memory clock, cache, overclock ability that only unlocked processor can do like they have K on them at the end of model number like core i5-8600k is overclockable but i5-8400 is not overclockable, it means there are differences in each model and each processor that you must be aware of when buying. You can boost the performance further on unlocked processor and for that you need OC (overclock) supported motherboard too. That gives you better performance and it is more expensive too.
+CPU Clock is another importance feature of every processor. It defined how many time the cycle moves per second and It’s the processor speed meter like 3GHz, 4GHz or 5GHz etc. and Each category of processor has different clock speed and normally on desktop 3.5 GHz is mostly seen but higher clocked version of Intel(i3,i5,i7,i9) and Amd (Ryzen 3,5,7,Threadripper etc.) processor are expensive and needed by most power users only. For normal day to day use you can take base versions as they are significantly cheap and need no extra cooling system.
+
+
+    </string>
+
+    <string name="desktop_processor_card_virtualization">
+
+        Virtualization Technology (Virtualization)\n\n
+Allows one hardware platform to function as multiple “virtual” platforms. Offers improved manageability by limiting downtime and maintaining productivity by isolating computing activities into separate partitions.
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_basic_qa_card_intro">
+
+         Motherboard Basics \n\n
+Motherboard is the main piece of hardware in your pc that holds are other components that are needed to build a pc like CPU, Ram, HDD, graphics card etc. There are multiple things to know about this hardware to make it compatible with your other hardware as well to run properly. We will learn about those here…
+
+
+    </string>
+
+    <string name="desktop_mobo_card_basic_qa_card_get_right_socket">
+
+
+Get right socket for CPU (Basics Q/A)\n\n
+You can find great CPUs from either Intel or AMD, but whatever processor your choose, make sure that your board has the correct socket to support it. The latest mainstream AMD chips use AM4 sockets while current Intel 8th Gen Core CPUs require an LGA 1151v2 sockets. This is so important specially for which CPU you have bought like Intel or AMD. It will be different on those conditions.
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_basic_qa_card_size_variation">
+
+        Size variation\n\n
+Motherboards come in three main sizes, from largest to smallest: ATX, Micro-ATX and Mini-ITX (Yes, Mini is smaller than Micro). You can use a smaller chassis with the micro or mini boards, but you will have to settle for fewer PCIe slots, RAM banks and other connectors.
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_basic_qa_card_pay_for_highend_ports">
+
+
+Pay for high end ports\n\n
+Some times for higher end ports like thunderbolt 3 support and USB 3.1 and build in wi-fi ports you need to spend some extra cash also check before buying.
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_platform">
+
+
+    What CPU are you using? (Platform)\n\n
+The CPU you\’re planning on pairing with your board will narrow down your options, since the CPU socket on a given motherboard will only work with the chip line it was designed for.\n\n
+
+For instance, if you\’re buying an Intel 8th Generation Core processor, you\’ll need a board with an LGA 1151 socket and one designed for 8th Generation processors; older boards designed for 7th Generation chips use the same socket, but won\’t work with newer chips.\n\n
+
+AMD makes this process a bit less confusing because (for now at least) the company uses the same AM4 socket for all of its mainstream current-gen chips, from Athlons all the way up to 8-core Ryzen 7 parts. And AMD has promised to stick with the AM4 socket until 2020. Intel, on the other hand, has a tendency in recent years to switch sockets (or at least socket compatibility) from one generation to the next.\n\n
+
+But for the true high-end, both Intel (LGA 2066) and AMD (TR4) have different sockets to accommodate the larger size and power draw of their Core X and Threadripper processors. For more on processor considerations.\n
+
+</string>
+
+
+    <string name="desktop_mobo_card_formfactor_intro">
+
+        There are 3 main types of motherboard sizes according to your casing size and your want and need.
+
+    </string>
+
+
+    <string name="desktop_mobo_card_formfactor_atx">
+
+        ATX\n\n
+        ATX is the factory standard that supports more slots and ports but takes huge space in case.
+
+    </string>
+
+    <string name="desktop_mobo_card_formfactor_micro_atx">
+
+        Micro-ATX\n\n
+        Micro-ATX Around 2.4 inch shorter which means less room for expansion slots
+
+    </string>
+
+    <string name="desktop_mobo_card_formfactor_mini_itx">
+
+        Mini-ITX\n\n
+        Mini-ITX Can be used for tiny pc. But you will have less room for adding Graphics card, ram slots and storage expansion
+
+    </string>
+
+
+    <string name="desktop_mobo_card_chipset_choosing">
+
+        Which chipset you should get?(chipset)\n\n
+
+our CPU choice will dictate your compatible chipsets options, and if you opt for the highest-end consumer Intel or AMD chips (Core X or Threadripper), you’ll only have one choice (X299 for Intel or X399 for AMD). But for mainstream users who just want to install a single graphics card and a few drives, you can often get the features you’re after by opting for a chipset below Intel’s Z370 or X370/X470 for AMD.\n\n
+
+If you choose an H370 or Q370 board on the Intel side, you’ll lose the option to overclock, though only a handful of mainstream Intel chips are unlocked for overclocking anyway (those with product names that end in the letter “K”). But these stepped-down chipsets are actually newer than Z370, and so offer some features (like integrated/native USB 3.1 Gen2 support) that Intel’s Z370 lacks.\n\n
+
+On the AMD side, the B350 and B300 chipsets still support overclocking. Although you will lose some fast USB and SATA ports over the X370 chipset, enough of those connectivity options remain to support most mainstream computing tasks. If you need more ports and drives, stepping up to a X370 board for $20-$30 more than a comparable B350 option is worth the money.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_features_intro">
+
+
+What extra features do you need?(extra feature)\n\n
+Given the sheer number of features that board makers sometimes slap on motherboards particularly high-end models it’s impossible to discuss them all. But here are a few to keep an eye on:
+
+
+    </string>
+
+    <string name="desktop_mobo_card_features_on_board_on_off_switch">
+
+        ON Board Switch\n\n
+
+        These can be handy in the initial build process, or if your system is being housed in an open case for benchmarking/component testing. But for the average user, on-board buttons (which sometimes also include buttons to clear the CMOS or do basic overclocking) aren\’t necessary.\n\n
+
+    </string>
+
+    <string name="desktop_mobo_card_features_led_diagnosis">
+
+        LED Diagnosis\n\n
+        LED diagnostic readouts is the tiny speaker that plugs into motherboard headers to provide diagnostic beeps when something goes wrong is going the way of the dodo. In its place, many mid-to-high-end boards now include a two-or-three-digit display for the same purpose, giving you an alpha-numeric code when something goes wrong. This can be a real help when building or upgrading and you either forget to plug something in, something isn\’t seated properly, or one of your components turns out to be faulty. \n\n
+
+    </string>
+
+    <string name="desktop_mobo_card_features_wifi_card">
+
+        Wifi Card\n\n
+
+        If you don\'t have Ethernet near your computer, you want this.
+
+    </string>
+
+    <string name="desktop_mobo_card_features_dual_ethernet_port">
+
+        Dual Ethernet Port\n\n
+
+        A single Gigabit Ethernet port has plenty of bandwidth for Internet traffic, so this is helpful mainly if you plan to use the computer as a server and the board can aggregate the two connections into one.
+
+    </string>
+
+
+    <string name="desktop_mobo_card_features_aesthetic">
+
+        How important are aesthetic to you?\n\n
+If you are so concerned with looks of your pc and you want fancy hardware with RGB lighting on all of them then go for RGB supported Motherboard from Asus, Gigabyte or MSI they all have that feature and for that you need extra cash that’s it.
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_ports_intro">
+        What ports you need? (latest Ports)\n\n
+Sometime you feel that you do not have port that support certain hardware then you will be hating on yourself for buying it so please check this out will help you:
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_ports_usb_2">
+
+        USB2 Port\n\n
+        Slower than USB 3/3.1, but they are enough for keyboard, mice etc.
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_ports_usb_3_gen_1">
+
+        USB3/USB3.1 Gen1\n\n
+        Lot faster than USB2.0. You can never have too many of this as they work with most peripherals.
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_ports_usb_3_gen_2">
+
+        USB3.1 Gen2\n\n
+        Not many peripherals support this standard yet, but it delivers 10 Gbps of bandwidth, which is double what you get with USB3.1 and USB 3.0.
+
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_ports_usb_type_c">
+
+        USB type-C\n\n
+        These ports could be either USB 3.0/USB3.1 gen2 compatible and are designed to be used in newer device such as smartphone nowadays use it in expensive devices.
+
+
+
+    </string>
+
+    <string name="desktop_mobo_card_ports_hdmi_and_display_port">
+
+        HDMI/Display Port Video Out\n\n
+You only need these if you want to plan to use integrated graphics. Discrete cards have their own ports. See graphics card section to know about those as well.
+
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_ports_audio_port">
+
+        Audio ports\n\n
+        Important if you plat to connect analogue speaker or headphones.
+
+
+
+    </string>
+
+    <string name="desktop_mobo_card_ports_ps2_port">
+
+        PS/2 ports\n\n
+        Give you compatibility to connect analog speaker and headphones.
+
+
+
+    </string>
+
+    <string name="desktop_mobo_card_ports_thunderbolt_port">
+
+Thunderbolt 3\n\n
+Very rare to find this built into motherboard, but some boards support in through dedicated add on cards. It provides the fastest possible connection that is up to 40 Gbps. That is crazy fast and rare.
+
+
+    </string>
+
+    <string name="desktop_mobo_card_ports_ram_slots">
+
+        What many ram slots you need?\n\n
+Sometimes you have money to buy more ram on your pc but problem is that your motherboard do not support more than 2 slots, for that reason you have to buy another motherboard that support more ram slots. That is painful job. So before buying go for at least 3 or 4 ram slots to manage you ram. For that you need ATX or Micro-ATX motherboard to get extra slots.
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_multi_gpu_support">
+
+    </string>
+
+
+    <string name="desktop_mobo_card_budget_intro">
+
+        How much can you spend?\n\n
+There are tons of types of motherboards in the market but not all suit to you might have different budget and need from others too. So, I categorized it properly for you.
+
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_budget_100_150_dollar">
+
+        $100 to $150\n\n
+
+You can get overclock-able boards for AMD chips (even with the premium, last-generation X370 chipset) in this range. But with Intel, you\'re stuck with stock speeds (though you can find overclock-friendly Z370 boards for just over $100). Depending on sale prices, you can get a host of features, including onboard Wi-Fi, although Wi-Fi-equipped boards usually start above $80.
+
+
+
+    </string>
+
+    <string name="desktop_mobo_card_budget_150_200_dollar">
+
+        $150 to $200\n\n
+
+As you start to climb into the premium tier, you’ll see more RGB lights, beefier heatsinks and better power phases and VRMs (voltage regulation modules) which are important for serious overclocking. You’ll also find a better selection of ports at this level, including a greater number of USB 3.0/3.1 Gen 2 connectors.
+
+
+
+    </string>
+
+
+    <string name="desktop_mobo_card_budget_200_more_dollar">
+
+        $200\n\n
+For mainstream platforms, this is the truly premium price range, where you’ll see the best board components, giant (often very stylized) heatsinks, and I/O covers designed to deliver a slick, premium look. Extreme overclocking features, which mainstream builders don\'t need, are also often a key feature set.
+
+
+
+    </string>
+
+
+    <string name="desktop_monitor_card_resolution">
+
+        Resolution\n\n
+When Buying any monitor people should think about the resolution first as the higher the resolution the better display quality you will get but it will get more expensive too. Resolution is measured in width * height pixels that is horizontal and vertical respectively. PPI is the unit of measurement in terms of display sharpness. the more PPI (Pixel Per Inch) the more sharper the display will be There are typically 4 types of display resolution mainly available there are:\n\n
+720p (1280*720)\n
+1080p (1920*1080)\n
+2k (2560*1440p)\n
+4k (3840 *2160) display\n\n
+720p is rarely used as its not good for content watching, playing games as its not sharp at all. 1080 is the one that is used mostly as it is balanced between it sharp and very good for productivity and doing most of the works as a standard and its quite affordable as well. If you want higher resolution than this get 1440p or 4k depending on your budget but remember higher the pixel the better quality and more expensive too. Those need more CPU and GPU horse power to run modern games at good frame rate. Keep in mind that also.
+
+
+    </string>
+
+
+    <string name="desktop_monitor_card_panel_types">
+
+        Panel types\n\n
+There are multiple panel types available in desktop segment and they are targeted for different types of need and quality and budget. Mostly used panels are:\n\n
+1. TN-LCD(Twisted Nematic)\n
+2. IPS-LCD(In-Plane Switching)\n
+3. OLED(Organic light emitting Diode)\n\n
+TN-LCD are cheap in price and quality. But in modern monitors you will not see this often. The mostly used panel is IPS-LCD which offer superior display quality and great 170 degree plus viewing angles and the color accuracy is great on IPS display. Its quite popular across multiple purpose use and in affordable budget it comes with.\n\n
+OLED display are so expensive that it is not used at all. The main purpose of OLED display is that it offers extremely well viewing angles and great contrast ratio and very vivid and punchy color reproduction. Movie watching, playing games is a great joy in this type of display.
+
+
+    </string>
+
+    <string name="desktop_monitor_card_screen_size">
+
+        Screen Size\n\n
+One of the most important things in buying any monitor is the Screen Size and according to it the price differs a lot and you need is also a factor. There is relationship between resolution and screen size. You must have to choose screen size matching with resolution. Suppose you take a monitor with 1080p display and its size is 40 inch then definitely it will look so bad and less sharp and pixelated. As a monitor you always have to choose it according to resolution matching. There are mainly 4 category of screen sizes:\n\n
+1. Below 21.5 inch(720p)\n
+2. 21.5 -24 inch (1080p)\n
+3. Up to 32 inches (2k,4k,1080p)\n
+4. 34 inches and over (Cinema 4k, UHD)\n\n
+
+Below 21.5 inch is normally not full HD (1080p) so price is lot lower like around $100 or less.\n\n
+A display with 21.5 inch to 24 inch is quite multi-purpose monitor and affordable as well around $150-$250 depending on size, brands, quality, feature.\n
+A display up to 32 inch is quite expensive and normally used in professional work and for good content watching and editing and gaming purposes. They priced around $250-$500.\n
+A display with 34 inch and over is for extreme users who want the best of the best quality and resolution they buy it around $1000 or more.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_monitor_card_viewing_angle">
+
+        Viewing angles\n\n
+Viewing angles are not very important to be concerned of as now most of the brand provide good quality IPS panel that is great for any positional viewing. Its measured in angles like IPS has around 178 degree viewing angles. Previous generation monitors used TN panel which was not good for content watching, gaming etc.\n\n
+as you cannot see anything properly you look at it in different position, you had to see it directly otherwise colors tend to fade and there was negative view on the display. Now this problem is solved with modern technology is developing.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_monitor_card_response_time">
+
+        Response time\n\n
+Response time is very important specially the people who plays competitive games and who play games at very high frame rates like over 120 FPS. Then you have to consider response time before buying any monitor. Response time is how quickly an image can be displayed and the more speed this process is the better it will be and more efficient your gaming experience will be.\n\n
+        Normally monitors comes with 60hz refresh rate that can get up to 2-5m/s millisecond time. The less the response time the more the better and more expensive. Response time gives gamers and edge over their competitors.
+
+
+
+    </string>
+
+
+    <string name="desktop_monitor_card_refresh_rate">
+
+        Refresh rates\n\n
+The refresh rate of a monitor is the speed (rate) at which the monitor’s image changes (refreshes). The faster the refresh rate, the more times the image can update every second and the smoother the image will look. This number of changes per second is measured in hertz (Hz).\n\n
+A typical PC monitor will have a refresh rate of 60Hz, but the latest gaming displays can reach all the way to 240Hz. The more the refresh rates the more the smooth gaming experience you will get. But the expense is ridiculously high.\n\n
+If your CPU and GPU are capable of playing games at over 100 fps then if you have suppose 60Hz refresh rate monitor then you will get screen tearing issue as your monitor is not fast enough to capture and move with 100 fps frame rate thus screen tearing happens. But you can set the v-sync on in games which solves the issue but the frame rate loss to 60 fps locked rather than 100 smooth fps.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_monitor_card_gsync_freesync">
+
+        G-sync/Free-sync\n\n
+
+If you\’ve ever experienced screen tearing in a PC game, you know how annoying it can be. An otherwise perfectly rendered title totally ruined by gross horizontal lines and stuttering. You can turn on V-Sync, but if you don’t have a high-end system, it can put a huge dent in your performance.\n\n
+Both Nvidia and AMD have stepped up to try and solve the issue while preserving framerates, and both manufacturers have turned to adaptive refresh technology for the solution. But let\’s break it down to show which is a better option for you.\n\n
+
+G-Sync and FreeSync are both designed to smooth out gameplay, reduce input lag, and prevent screen tearing. They have different methods for accomplishing these goals, but what really sets them apart is that one is closely guarded, and the other is openly shared. While Nvidia’s G-Sync is enabled by including a chip in the construction of the monitor, FreeSync uses the video card’s functionality to manage the refresh rate of the monitor using the Adaptive Sync standard built into the DisplayPort standard. The result is a difference in performance.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_monitor_card_features_and_ports">
+
+        features/ports\n\n
+Some times extra features like integrated speakers, memory card slot, USB hubs, 3.5mm audio jack are so much useful for many people who want a complete package in one monitor.\n\n
+
+For ports the most important one is having multiple HDMI ports, DVI ports etc. helps in productivity that you can connect multi monitors at once.\n\n
+
+So, when you buy monitor check those out because you might need them for your purpose of pc build or your work.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_basics_intro">
+
+        BASICS to know\n\n
+Buying a Graphics Card is so complex as there are lots of choices to take from and specially there are two main platform Nvidia and AMD that build the core chips of graphics card. So, in this segment we will talk in brief about graphic card technologies you should know and then select which model is suited to you best according to your budget.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_basics_go_for_latest">
+
+GO FOR LATEST\n\n
+One very important tip when buying graphics card to buy the latest product as much as possible. Latest cards have newer generation memory type and features and architecture which helps to improve performance as well as power consumption.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_basics_match_monitor_resolution">
+
+        MATCH MONITOR RESOLUTION\n\n
+Many Cards are good enough to handle 1080p gaming at 30-60 fps but if you have high resolution display monitor like 4k or 2k then you need good graphics card to handle such resolution. For example, GTX 1060 can do gaming at 1080p smoothly but struggles at 4k so you need GTX 1080 or better Graphics card to get optimal performance.\n\n
+
+
+
+
+
+    </string>
+
+    <string name="desktop_gpu_card_basics_consider_refresh_rate">
+
+        CONSIDER REFRESH RATE\n\n
+If your monitor has triple-digit refresh rates like 120 or 144Hz monitor, you’ll need a powerful card to show its full potential. Alternatively, if your monitor tops out at 60Hz and 1080p, there’s no point in paying extra for a powerful card that pushes pixels faster than your display can keep up with. So, before buying it consider your monitor refresh rate with your graphics card matching.\n\n
+
+
+
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_basics_power_and_space">
+
+        POWER AND SPACE\n\n
+Make sure that your pc case has enough space to hold the card. There are triple and dual fan graphics cards available in the market which is large in formfactor that only large cases can hold so if you have small case don’t go for large formfactor card.\n\n
+Again, it needs enough power to handle those graphics cards for different card like high end cards need more hungry power supply about 800W or more. But low end and midrange need only 500W or close to it.\n\n
+
+
+
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_basics_dual_card">
+
+        DUAL-CARD\n\n
+The dual or multi card system is called SLI (NVIDIA) or Crossfire (AMD) depending on how many cards you using the name changes like DUAL SLI, TRIPLE SLI, QUAL SLI,2x crossfire,3x crossfire,4x crossfire etc. have 2/3/4 cards working together to get better graphical performance.\n\n
+Problem with multi card system is it is very power hungry and are not optimized for all games that gamers need. My suggestion is to go for single card as much as possible. Rest is for extreme users.\n\n
+
+
+
+
+
+    </string>
+
+    <string name="desktop_gpu_card_basics_overclocking">
+
+
+        OVERCLOCK\n\n
+Overclocking is just the performance boost over your normal card by regulating the memory clock and increasing the base clock speed to its highest potential possible. For that you need good CPU to handle and OC enabled graphics card.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_specs_to_know_intro">
+
+        Specifications must know\n\n
+
+        Before buying any GPU it\’s important to know about their specs sheet and understand them by looking at the product front cover that most of us do daily basis. Let\’s understand them now.
+
+    </string>
+
+
+    <string name="desktop_gpu_card_specs_to_know_memory_amount">
+
+        Memory Amount\n\n
+Important. Get a card with 3-4GB for serious gaming at 1080p. You\'ll need more memory if you play with all the settings turned up or you install high-resolution texture packs. And if you’re gaming at very high resolutions such as 4K, 8GB or more is ideal.
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_specs_to_know_form_factor">
+
+        Form Factor\n\n
+Very important. You need to make sure you have room in your case for your card. Look at the length, height, and thickness. Graphics cards can come in half-height (slim), single-slot, dual-slot, and even triple-slot flavors. Most gaming-focused cards will be full-height, and occupy two expansion slots. And, even if a card technically only takes up one or two slots in your case, if it has a big heatsink and fan shroud, it can block an adjacent slot. If you have a tiny Mini ITX motherboard, look for a mini card, which is generally 8 inches long or less.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_specs_to_know_tdp">
+
+        TDP\n\n
+
+Very important. Thermal Design Power or TDP is a measurement of heat dissipation, but it also gives you an estimate of how many watts you’ll need to run your card at stock settings. So, for instance, if you’re running a 400-watt power supply unit (PSU) with an overclocked 95-watt CPU and you want to add a GTX 1080 Ti (which has a 250-watt TDP) you’re almost certainly going to need a PSU upgrade.\n\n
+
+
+    </string>
+
+    <string name="desktop_gpu_card_specs_to_know_power_connectors">
+
+        POWER Connectors\n\n
+
+Important. Most serious gaming cards draw more than the standard maximum of 75 watts that the PCIe slot provides. These cards require connecting supplemental PCIe power connectors that come in six- and eight-pin varieties. Some cards have one of these connectors, some two, and six-and-eight-pin ports can exist on the same card. If your power supply doesn’t have the supplemental connectors you need, you may need to upgrade or get an adapter that draws power from a couple of SATA or Molex connectors.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_specs_to_know_ports">
+
+        PORTS\n\n
+Important. Some monitors have HDMI, others use DisplayPort and some older units only have DVI. Make sure the card has the connectors you need for your monitor(s), so you don’t have to buy an adapter. Check you monitor connectivity and that can support your graphics card.\n\n
+
+
+    </string>
+
+    <string name="desktop_gpu_card_specs_to_know_clock_speed">
+
+        Clock Speed\n\n
+Somewhat important. Among cards with the same GPU (ex: an Nvidia GTX 1060), some will be manufacturer overclocked to a slightly higher speed, which could make a very modest difference in frame rates.\n\n
+
+
+    </string>
+
+    <string name="desktop_gpu_card_specs_to_know_memory_bandwidth">
+
+        Memory Bandwidth\n\n
+Somewhat important. Like higher clock speed, faster memory can make one card slightly faster than another.\n\n
+
+
+    </string>
+
+    <string name="desktop_gpu_card_specs_to_know_cuda_core_stream_processor">
+
+        CUDA cores/Stream Processor\n\n
+
+In some sense, this is very important, as it’s the number of processing units in the GPU, similar to the number of cores in a processor. But taken by itself, the number of CUDA cores or Stream Processors doesn\'t tell you anything about performance, especially if you\’re comparing an AMD card to a competing model from Nvidia.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_nvidia_amd_intel_intro">
+        Nvidia or Amd or Intel\n\n
+        There are basically two major companies that makes the Graphics cards Nvidia and AMD. It is a big debate which one is better and better suited for you.\n\n
+
+    </string>
+
+    <string name="desktop_gpu_card_nvidia_amd_intel_differences">
+        Nvidia or Amd or Intel Differences\n\n
+
+        Two things you have to consider before it, your budget and performance. For long term researching I have seen that the top end graphics cards are made by Nvidia and for better performance with decent budget AMD card give better value to your money. Nvidia is always costs more than AMD equivalent card like Nvidia’s GTX 1060 is more expensive that AMD’s RX  570. Although, Nvidia’s graphics card are little better in terms of regular software update facility and optimization is little bit better on it.\n\n
+The performance difference is not hugely different but the value difference is there. Many people like to buy Nvidia cards as they bring newer technologies and features day by day. And their newer versions of graphics card perform a lot better than older gens. AMD aims to give better performance at lower price that helps a lot of budget gamers choice.\n\n
+
+Unless you have a preference for a particular company, the best reason to choose one over the other is whether your monitor supports AMD FreeSync or Nvidia G-Sync. Both of these technologies synchronize the refresh rate between the video card and the display to eliminate tearing. If your monitor supports neither technology, then you can go with either GPU brand.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_gpu_category_intro">
+
+        Categories\n\n
+        I have categorized Graphics card in different price and budget segment for you check it out:\n\n
+
+    </string>
+
+
+    <string name="desktop_gpu_category_cheap">
+
+
+        CHEAP\n\n
+
+        Nvidia GTX 1030, AMD Radeon RX 550\n\n
+
+Only buy these if you don\'t game (or you donot game much) and your CPU doesnot have integrated graphics.\n\n
+
+
+    </string>
+
+    <string name="desktop_gpu_category_budget">
+
+        BUDGET\n\n
+Nvidia GTX 1050, AMD Radeon RX 560, Nvidia GTX 1050 Ti or equivalent.\n\n
+Decent for playing games at 1080p or lower res at medium-to-low settings\n\n
+
+
+    </string>
+
+
+    <string name="desktop_gpu_category_midrange">
+
+        MID-RANGE\n\n
+AMD Radeon RX 570, Nvidia GTX 1060, AMD Radeon RX 580, Nvidia GTX 1060, GTX1160 etc\n\n
+
+Good for 1080p gaming, compatible with VR headsets\n\n
+
+
+    </string>
+
+    <string name="desktop_gpu_category_highend">
+
+        HIGH-END\n\n
+AMD Radeon RX Vega 56, Nvidia GTX 1070 Ti, AMD Radeon RX Vega 64, Nvidia GTX 1080, Nvidia GTX 1080Ti, GTX1170,  GTX 1180,  RTX 2060,  RTX 2070, Nvidia RTX 2080, Nvidia Titan XP etc.\n\n
+Good for VR headsets and gaming at resolutions at 1440p or high-refresh 1080p monitors.\n\n
+
+
+    </string>
+
+    <string name="desktop_gpu_category_premium">
+
+        PREMIUM\n\n
+Nvidia RTX 2080 Ti, Nvidia Titan V\n\n
+
+These are best for 4K, and the RTX cards support new ray-tracing and A.I. tech.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_special_features_intro">
+
+        SPECIAL FEATURES\n\n
+There are some important special features to look for when buying a graphics card like VR (Virtual Reality) support and Nvidia\’s latest Ray tracing and much more.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_gpu_card_special_features_vr_intro">
+
+        VR SUPPORT\n\n
+With the resurgence in popularity of high-quality VR tech, it’s clear that virtual reality is here to stay.\n\n
+Whether you have experienced a VR headset for yourself, and crave its full immersion into a game world, or are just dipping your toes in the realistic waters of Skyrim, your graphics card is going to be the critical component in your VR build.\n\n
+There are as many graphic cards on the market as there are VR titles to choose from, and we’ve put together a user-friendly guide to help break down which one will be best for you.\n\n
+We’ve sorted the options into three simple categories that will help you narrow down which video card is the best for VR.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_gpu_special_features_entry_level_vr">
+
+        Entry Level VR – AMD RX 580\n\n
+AMD\’s follow-up to the still-popular RX 480, the RX 580, is a powerhouse budget CPU that will handle most VR titles on respectable settings without any noticeable frame rate lag.\n\n
+Based largely on the previous RX 480’s Polaris architecture, the RX 580 has some clear advantages over its predecessor.\n\n
+AMD states the only major change made to the RX 580 is in the unit’s silicon to allow for higher clock speeds.\n\n
+The RX 580’s base clock speed is 1267MHz, with a boost up to 1340MHz; in practice, however, the RX 580 can run smoothly and without heating issues up to around 1400MHz.\n\n
+That\’s a significant improvement over the already-strong performance of the RX 480.\n\n
+On paper it\’s very close to the mid-range option on our list, the NVIDIA GeForce GTX 1060, and is a stellar choice for an entry-level VR rig.\n\n
+It’s just about the least expensive card that will pass the recommended specs for today\’s VR headsets.\n\n
+It comes with AMD FreeSync, and will handle high refresh rate HD gaming with ease.\n\n
+AMD offers this card in both 4GB and 8GB memory setups, but for first-time VR adopters, the 4GB will do just fine.\n\n
+Where the RX 580 begins to fall behind is in resolutions above 1080p, making it a less-versatile card than the GeForce 1060, against which it was aimed to compete.\n\n
+It starts to dip below the 60 FPS sweet spot when running in QHD (1440p) or higher resolutions.\n\n
+Despite this shortcoming, the RX 580 is a solid choice for VR gaming on a budget.\n\n
+It’s less expensive than the 1060, and when considering just VR, performs at a similar level.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_gpu_special_features_mid_level_vr">
+
+        Mid-Range VR – NVIDIA GeForce GTX 1060\n\n
+Listed as a recommended card for the Oculus Rift, the GeForce GTX 1060 is a great middle ground for those looking to get into VR.\n\n
+Not only will it handle VR gaming with ease, it consumes much less power than the above-listed RX 580.\n\n
+The downside here is that it costs a little more, though their performance is still similar, but in general the GTX 1060 performs better than the RX 580.\n\n
+As an added bonus, it’s G-Sync ready, a monitor technology that is quickly becoming popular, and that offers high-definition panels to help sync refresh rates to FPS for a smoother gaming experience.\n\n
+Sold in both 3GB and 6GB configurations, either one will suffice for VR gaming.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_gpu_special_features_upper_mid_level_vr">
+
+        Upper Range VR– NVIDIA GeForce GTX 1070\n\n
+A versatile card that can handle both high performance wide resolution gaming and VR, the GTX 1070 is just above the price that would put it in the mid-range category.\n\n
+Boasting impressive specs without costing a new mortgage on your home, this card includes a moderate amount of future-proofing, as gaming trends towards the QHD resolution and beyond. It can handle 4K gaming, though it won’t run 60 FPS on maximum settings in that resolution.\n\n
+Overall it’s a well-rounded, high value card that will run VR applications beautifully and without any stuttering.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_gpu_special_features_high_level_vr">
+
+        High End VR Gaming – NVIDIA GeForce GTX 1080 Ti\n\n
+The most expensive card on this list by far, the GTX 1080 Ti is at the top of the list for gamer-focused graphics cards.\n\n
+Boasting 11GB of dedicated VRAM, Pascal architecture, and significant overclocking capabilities, the GTX 1080 Ti is the reigning king of graphical gaming fidelity. Not only will the GTX 1080 Ti flawlessly handle VR gaming even on the highest settings, it\’s one of the only cards currently on the market that can boast a smooth 60 FPS for 4K gaming on maximum settings for most titles.\n\n
+
+It\’s a gaming monster, and if you have the cash to spend, it will provide you both with a range of gaming options and with years of future-proofing for your system.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_ram_card_basics_intro">
+
+        RAM Basics to know\n\n
+RAM is the short-term memory of your computer. It\’s where your computer keeps track of the programs and data you\’re using right now. You probably already know that more RAM is better, so maybe you’re looking to install more RAM now.\n\n
+What\’s the difference between DDR3 and DDR4? DIMM and SO-DIMM? What’s the difference between DDR3-1600 and PC3-12800? Are latency and timing important?\n\n
+In this article, we explain the different kinds of RAM and what distinguishes them.
+
+RAM acts as a middle ground between the small, super-fast cache in your CPU and the large, super-slow storage of your hard drive or SSD. It’s used to temporarily store working parts of the operating system and data being actively used by applications. It’s not used for permanent storage.\n\n
+If you think of your computer like an office, the hard drive is the filing cabinet in the corner, the RAM is like an entire office workstation, and the CPU cache is like the actual working area where you\’re actively work on a document.\n\n
+
+The more RAM you have, the more things you can have quick access to at any one time, just like having a bigger desk which can have more bits of paper on it without becoming messy and unwieldy (and requiring more trips back to the filing cabinet to reorganize).\n\n
+Unlike an office desk, however, RAM can\’t act as permanent storage. Its contents are lost as soon as power is lost, such as when you turn your computer off. Losing power is like wiping the workstation clean.
+
+
+    </string>
+
+
+    <string name="desktop_ram_card_specs_to_know">
+
+        Specs Must Know\n\n
+
+You may have seen RAM referred to by two sets of numbers, like DDR3-1600 and PC3-12800. These both reference and allude to the generation of the RAM and its transfer speed. The number after DDR/PC and before the hyphen refers to the generation: DDR2 is PC2, DDR3 is PC3, DDR4 is PC4.\n\n
+The number paired after DDR refers to the number of MegaTransfers (MT) per second. (For example, DDR3-1600 RAM operates at 1600 MT/s). The number paired after PC refers to the theoretical bandwidth in megabytes per second. (For example, PC3-12800 operates at 12800 MB/s).\n\n
+It’s possible to overclock RAM, just like you can overclock a CPU or graphics card, to increase the RAM’s bandwidth. Manufacturers sometimes sell RAM that’s already overclocked, but you can overclock it yourself. Just make sure that your motherboard supports the higher clock speed!\n\n
+Pro Tip: You can mix and match RAM modules of different clock speeds, but they’ll all run at the clock speed of the slowest module. If you want to make use of that faster RAM, don’t mix it with just any old RAM lying around.\n\n
+
+    </string>
+
+    <string name="desktop_ram_card_ddr_version_intro">
+
+        DDR Versions\n\n
+
+The RAM you use in your computer operates using Double Data Rate (DDR), which means that two transfers happen per clock cycle. Newer types of RAM are updated versions of the same technology, hence why RAM modules are labeled as DDR, DDR2, DDR3,DDR4 and so on.\n\n
+While all RAM generations are exactly the same size and shape, they still aren’t compatible. You can’t use DDR3 RAM in a motherboard that only supports DDR2, or vice versa.\n\n
+Thankfully, each generation has a notch cut in the pins at different locations so they physically won’t fit. Even if you accidentally buy the wrong kind, you won’t have to worry about accidentally damaging your RAM or your motherboard when inserting the sticks.\n\n
+
+
+    </string>
+
+    <string name="desktop_ram_card_ddr_version_ddr2">
+        DDR2\n\n
+        DDR2 is the oldest kind of RAM that you\’re likely to come across today. It has 240 pins (200 for SO-DIMM). It’s been well and truly superseded, but you can still buy it in limited quantities to upgrade older machines when necessary. Otherwise, it\’s obsolete.\n\n
+
+    </string>
+
+    <string name="desktop_ram_card_ddr_version_ddr3">
+        DDR3\n\n
+        DDR3 was released all the way back in 2007 and is the current standard, but is currently being superseded by DDR4. While DDR3 DIMMs have the same number of pins as DDR2 (DDR3 SO-DIMMs have 204 pins vs. DDR2’s 200 pins), they run at lower voltages and higher timings so aren\’t compatible.\n\n
+
+
+    </string>
+
+    <string name="desktop_ram_card_ddr_version_ddr4">
+        DDR4\n\n
+        DDR4 is the newest kid on the block and is just starting to pick up mass market adoption despite being first released back in 2011. It drops the voltage even further from 1.5V to 1.2V while increasing the number of pins to 260. When buying a new motherboard, get one that\’s DDR4 compatible.\n\n
+
+    </string>
+
+
+    <string name="desktop_ram_card_form_factors_intro">
+
+        Form Factors\n\n
+
+For the most part, RAM comes in two sizes: DIMM (Dual In Line Memory Module), which is found in desktops and servers, and SO-DIMM (Small Outline DIMM), which you’ll see in laptops and small form factor computers.\n\n
+Though the two form factors use the same technology and functionally work in exactly the same way, they obviously can’t be mixed. You can’t just jam a DIMM stick into a SO-DIMM slot, and a SO-DIMM stick won’t work in a DIMM slot (the pins simply don\’t line up).\n\n
+So, when you\’re buying RAM for a computer, the very first thing to know is its form factor. Nothing else matters if the stick won\’t fit!
+
+
+    </string>
+
+
+    <string name="desktop_ram_card_latency_intro">
+
+        Latency\n\n
+
+You\’ll sometimes see RAM modules with a series of numbers like 9-10-9-27, which are referred to as timings. This is a measurement of the performance of the RAM in nanoseconds. The lower the numbers, the quicker the RAM can react to requests.\n\n
+The first number (9, in the example) is the CAS latency, or the number of clock cycles it takes for data requested by the memory controller to become available to a data pin.\n\n
+You\’ll notice that DDR3 RAM generally has higher timing numbers than DDR2, and DDR4 RAM generally has higher timing numbers than DDR3 — yet DDR4 is faster than DDR3 which is faster than DDR2. Weird, right?\n\n
+We can explain this using DDR3 and DDR4 as examples. The lowest speed DDR3 RAM runs at 533 MHz, which means a clock cycle of 1/533000000, or 1.87 ns. With a CAS latency of 7 cycles, total latency is 1.87 x 7 = 13.09 ns.\n\n
+Whereas the lowest speed DDR4 RAM runs at 800 MHz, which means a clock cycle of 1/800000000, or 1.25 ns. Even if it has a higher CAS of 9 cycles, total latency is 1.25 x 9 = 11.25 ns. That’s why it’s faster!\n\n
+But for most people, capacity trumps clock speed and latency every time. You’ll get much more benefit from 16 GB of DDR4-1600 RAM than you’ll get from 8 GB of DDR4-2400 RAM. In most cases, timing and latency should be the last points of consideration.\n\n
+
+
+    </string>
+
+    <string name="desktop_ram_card_purpose">
+
+        Your Need and Purpose\n\n
+Long past are the days where “640K ought to be enough for anybody”. In a world where even phones are shipping with 4 GB of RAM and browsers often play fast and loose with their memory allocations, RAM frugality is a thing of the past.\n\n
+I would suggest that 4 GB be the absolute bare minimum amount of RAM for a general usage computer, whether it’s running Windows 7 or later, OS X 10.7 or later, or most Linux distributions. We’ve also discussed the specifics of managing RAM in Linux.\n\n
+If you find yourself with no less than 6 Word documents open at any one time, can’t bring yourself to close those 60 tabs in Google Chrome, or find yourself needing to run a virtual machine every now and again, you’ll probably want to have at least 8 GB of RAM.\n\n
+16 GB of RAM should exceed the needs of most, but if you’re the kind who needs those 20 utilities running in the background on top of a mountain of browser tabs and everything else, you’ll be glad for the extra space. Very few people need 32 GB of RAM, but as they say, more is more.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_hdd_card_specs">
+
+        HDD Specification needs to know\n\n
+Now that you know what kind of drive to buy, it\’s time to find the best one that fits your needs. Here\’s what you need to consider:
+Storage capacity. HDDs come in all sizes, capping out at 16TB per drive due to physical limitations. On the other hand, SSDs are much smaller and have reached as high as 60TB—but affordable consumer-level SSDs are rarely larger than 4TB.
+Transfer speeds. The performance of a consumer-level HDD is determined by many factors, but revolutions per minute (RPMs) is an important one. Higher RPMs means faster transferring of data to and from the drive.
+You can ignore the drive’s SATA speed. For example, a modern drive might be listed as 3.0GB/s and 7200RPM. That first value is the SATA speed, which describes the theoretical maximum speed of a SATA connection. No HDD can transfer data at that kind of speed. However, a 7200RPM drive will always be faster than a 5400RPM drive.
+Cache space. When a hard disk needs to transfer data from one section of the drive to another, it utilizes a special area of embedded memory called the cache or buffer.
+A larger cache enables the data to transfer faster because more information can be stored at one time. Modern HDDs can have cache sizes ranging from 8MB to 256MB.
+Access times. Traditional HDDs have a couple of other factors that impact performance, such as the time it takes for the reader to position itself to read data from or write data to the drive.
+While it\’s true that two 7200RPM drives could perform differently (e.g. one of them might be slower at re-positioning the reader), there’s no standard way to compare access times. Plus, most hard drives perform at similar levels these days, so don’t worry too much about this particular detail.
+For SSDs, you’ll want to look for sequential read and write speeds (also called sustained read and write speeds). As long as those speeds are within the SATA connector’s max speed, which they most likely will be, you should be fine.
+
+Failure rate. Since HDDs are mechanical, wear and tear is expected over time, but not all HDDs wear at the same rate. Some models are prone to fail within 12 months while others have average lifespans exceeding six years. It’s your responsibility to research this on a per-model basis prior to making a purchase.
+On the whole, according to StorageReview, modern SDDs tend to last longer (average failure rate of 2.0 million hours) than modern HDDs (average failure rate of 1.5 million hours). However, for long-term storage of data that stays disconnected for months or years, HDDs are far more durable than SSDs.
+
+
+
+    </string>
+
+    <string name="desktop_hdd_card_formfactor_intro">
+
+        HDD Sizes and interface\n\n
+Once you\’ve decided between HDD and SSD, you have to pick a form factor. Thankfully, there are only two choices and the right choice is mostly dictated by your current setup.\n\n
+Data drives come in two form factors:\n\n the 3.5-inch drive and the 2.5-inch drive.\n\n
+In traditional HDDs, data is stored on spinning metal disks, which means that more disks are needed for expanded data capacity. For this reason, desktop HDDs tend to be 3.5-inches with a general maximum capacity of 12TB while laptop HDDs tend to be 2.5-inches with a general maximum capacity of 4TB.\n\n
+On the other hand, SSDs can be made smaller because they don’t require movable parts. As such, most SSDs come in the 2.5-inch form factor. What if you need to fit an SSD into a 3.5-inch connector? Adapters are available.\n\n
+As far as connections go, most modern consumer drives (both HDD and SSD) use SATA connectors. Older HDDs that were created before the SATA standard most likely use IDE connectors instead. And if you’re buying an external drive, it will connect to your system through a USB port.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_hdd_card_purposes">
+
+        How much do you need for what purposes?
+Microsoft Windows operating systems.
+How Much Hard Drive Do I Need?
+Determining what type and size of hard drive you should get for your computer depends upon what type of tasks you will be using the computer for. Different tasks require various sizes of file storage as well as performance. Of course, hard drive sizes have exploded in the past couple of years so most systems come with more space than a user will need. Below is a chart that lists some of the common computing tasks relating to what the minimum size and speed hard drive to look for in a system:\n\n
+	1. Word Processing: 250GB and Higher, 5400 rpm\n
+	2. Web Surfing: 320GB and Higher, 7200 rpm\n
+	3. Digital Music: 750GB and Higher, 7200 rpm\n
+	4. Gaming: 1TB and Higher, 7200 rpm\n
+	5. Graphics Editing: 1.5TB and Higher, 7200 rpm\n
+	6. Digital Video: 2TB and Higher, 7200 rpm\n
+These are just general guidelines considering the most common amounts of storage space that files and programs associated with these tasks take. With the current size and cost of hard drives for computer systems, it is easy to find drives of larger capacity than the numbers listed above for very little in cost. In addition, some performance systems are mixing a solid state drive for the boot/OS drive and then using a hard drive for all other storage.\n\n
+
+
+
+
+    </string>
+
+    <string name="desktop_hdd_card_internal_external">
+
+        HDD External Vs. Internal\n\n
+The final thing to consider is whether this hard drive is going to housed in a desktop or laptop case or used externally and connected to various devices. It’s an easy decision, but let’s take a look at the pros and cons of each.\n\n
+External drives are ideal for storage, backups, and transfers. They typically connect using USB 2.0, 3.0, or 3.1, which have maximum transfer speeds of 60MB/s, 625MB/s, and 1,250MB/s, respectively. USB 3.1 is preferable of course, but not essential unless you\’re transferring hours of data back and forth every single day.\n\n
+External drives are portable. They can be shared between multiple computers without any hassle. Just unplug the USB, plug it elsewhere, and you’re done. They can also be plugged into TVs and media centers for direct media playback.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_hdd_card_ssd_hdd_combination">
+
+        SSD + HDD Combination\n\n
+As you know by now that SSD is way faster than HDD around 8-10 times. But SSD is quite expensive too. So, what’s the solution?\n\n
+My advice is to use Both SSD and HDD in your system to gain Optimal performance and storage capacity. Use SSD for your Primary Drive and install all your apps on it so that they load quickly and work smoothly and keep your media files like photos, videos, games, documents etc. on Hard Drive. As HDD is cheap and can have huge storage so use it too to store and SSD is for apps and performance related task that you frequently use.\n\n
+1. Budget user – 250GB SSD + 1TB HDD\n
+2. Multi-Purpose—500GB SSD + 2TB HDD\n
+3. Gamers—500-1TB GB SSD + 4TB HDD\n
+4. Extreme Users—1TB-4TB SSD + 8TB HDD\n
+After all this is just given estimate you can increase it if you want but do not use less than 250GB SSD as you might install a lot of apps so you need that storage and also for keeping your operating system on it. Also Go for at least 1TB or 2TB HDD.\n\n
+
+
+
+    </string>
+
+
+    <string name="desktop_hdd_card_ssd_explained_intro">
+
+        SSD all you need to know\n\n
+The easiest way to hobble a fast CPU is to pair it with slow storage. While your processor can handle billions of cycles per second, it spends a lot of time waiting for your drive to feed it data. Hard drives are particularly sluggish, because they have moving parts. To get optimal performance you need a good solid state drive (SSD).
+
+
+
+
+    </string>
+
+
+    <string name="desktop_hdd_card_ssd_explained_quick_tips">
+
+        Things to know about SSD\n\n
+Here are four quick tips, followed by our detailed answers to many FAQs:\n\n
+	1. Know your home computer:\n\n Find out if you have slots for M.2 drives on your motherboard and room in the chassis. If not, you may need a 2.5-inch drive instead.\n\n
+
+	2. 250 - 512GB capacity:\n\n Don\'t even consider buying a drive that has less than 256GB of storage. 500GB offers a good balance between price and capacity.\n\n
+
+	3. SATA is cheaper but slower:\n\n If your computer supports NVMe PCIe or Optane drives, consider buying a drive with one of these technologies. However, SATA drives are more common, cost less and still offer excellent performance for common applications.\n\n
+
+	4. Any SSD is better than a hard drive:\n\n Even the worst SSD is at least three times as fast as a hard drive. Depending on the workload, the performance delta between good and mediocre SSDs can be subtle.\n\n
+
+
+
+
+    </string>
+
+
+    <string name="desktop_hdd_card_ssd_explained_which_kind_your_pc_support">
+
+        What kind of SSD does your computer support?\n\n
+Solid-state drives these days come in several different form factors and operate across several possible hardware and software connections. What kind of drive you need depends on what device you have (or are intending on buying). If you own a very recent gaming desktop or are building a PC with a recent mid-to-high-end motherboard, your system may be able to incorporate most (or all) modern drive types.\n\n
+Alternatively, modern slim laptops and convertibles are increasingly shifting solely to the gum-stick-shaped M.2 form factor, with no space for a traditional 2.5-inch laptop-style drive. And in some cases, laptop makers are soldering the storage directly to the board, so you can\’t upgrade at all. So you’ll definitely want to consult your device manual or check Crucial\'s Advisor Tool to sort out what your options are before buying.\n\n
+
+
+    </string>
+
+
+    <string name="desktop_hdd_card_ssd_explained_what_capacity_you_need">
+
+        What capacity do you need?\n\n
+	1. 128GB Class:\n\n Stay away. These low-capacity drives tend to have slower performance, because of their minimal number of memory modules. Also, after you put Windows and a couple of games on it, you\'ll be running out of space. Plus, you can step up to the next level for as little as $30 more.
+
+    2. 250GB Class:\n\n These drives are much cheaper than their larger siblings, but they are still quite cramped, particularly if you use your drive to house your operating system, a bunch of PC games, and possibly a large media library. If there’s wiggle room in your budget, stepping up one capacity tier to a 500GB-class drive is advisable.\n\n
+
+	3. 500GB Class:\n\n Drives at this capacity level occupy a sweet spot between price and roominess.\n\n
+
+	4. 1TB Class:\n\n Unless you have massive media or game libraries, a 1TB drive should give you enough space for your operating system and primary programs, with plenty of room for future media collections and software.\n\n
+
+	5. 2TB Class:\n\n If you work with large media files, or just have a large game library that you want to be able to access on the quick, a 2TB drive could be worth the high premium you pay for it.\n\n
+
+	6. 4TB Class:\n\n You have to really need this much space on an SSD to splurge on one of these. A 4TB SSD will be quite expensive  well over $1,000  and you won\’t have many options. As of this writing, Samsung was the only company offering consumer-focused 4TB models, in both the Samsung 850 EVO, and the newer Samsung 860 EVO models. \n\n
+If you\’re a desktop user, or you have a gaming laptop with multiple drives, you’re much better off opting for a pair of smaller SSDs, which will generally save you hundreds of dollars while still offering up roughly the same storage space and speed. Until pricing drops and we see more competition, these drives will be relegated to professionals and enthusiasts with very deep pockets.\n\n
+
+
+    </string>
+
+
+</resources>

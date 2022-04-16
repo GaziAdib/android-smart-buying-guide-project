@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#080808"
+    tools:context=".MotherboardTechnology.MotherBoardChipset">
+
+    <LinearLayout
+        android:layout_margin="2dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.CardView
+            android:backgroundTint="#211e1e"
+            app:cardCornerRadius="5dp"
+            android:layout_margin="2dp"
+            app:cardElevation="8dp"
+            android:elevation="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:padding="5dp"
+                android:background="#c97f00"
+                android:layout_margin="2dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:text="Choose Chipset Properly"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:padding="5dp"
+                android:fontFamily="sans-serif"
+                android:layout_marginTop="50dp"
+                android:textAlignment="textStart"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:textSize="17sp"
+                android:textColor="#f7c605"
+                android:textStyle="normal"
+                android:text="our CPU choice will dictate your compatible chipsets options, and if you opt for the highest-end consumer Intel or AMD chips (Core X or Threadripper), you’ll only have one choice (X299 for Intel or X399 for AMD). But for mainstream users who just want to install a single graphics card and a few drives, you can often get the features you’re after by opting for a chipset below Intel’s Z370 or X370/X470 for AMD.\n\n
+
+If you choose an H370 or Q370 board on the Intel side, you’ll lose the option to overclock, though only a handful of mainstream Intel chips are unlocked for overclocking anyway (those with product names that end in the letter “K”). But these stepped-down chipsets are actually newer than Z370, and so offer some features (like integrated/native USB 3.1 Gen2 support) that Intel’s Z370 lacks.\n\n
+
+On the AMD side, the B350 and B300 chipsets still support overclocking. Although you will lose some fast USB and SATA ports over the X370 chipset, enough of those connectivity options remain to support most mainstream computing tasks. If you need more ports and drives, stepping up to a X370 board for $20-$30 more than a comparable B350 option is worth the money.
+"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+
+        </android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

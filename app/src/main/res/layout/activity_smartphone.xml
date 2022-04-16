@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f4f4f4"
+    tools:context=".SmartphoneActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:backgroundTint="#6646EC"
+            android:layout_margin="15dp"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            android:layout_marginTop="22dp"
+            android:background="#3b3b3b"
+            android:textColor="#ffffff"
+            android:text="Smartphone Activity"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+
+         <ImageView
+             android:layout_gravity="center"
+             android:layout_margin="5dp"
+             android:src="@drawable/smartphone_theme_main"
+             android:layout_width="430dp"
+             android:layout_height="220dp" />
+
+
+        <View
+
+            android:visibility="visible"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="3dp"/>
+
+         <TextView
+             android:backgroundTint="#6646EC"
+             android:textSize="17sp"
+             android:textStyle="italic"
+             android:textColor="#ffffff"
+             android:layout_margin="5dp"
+             android:background="@drawable/smartphone_activity_textview2_bg"
+             android:textAlignment="center"
+             android:padding="12dp"
+             android:text="Must Know Technology Before Buying"
+             android:layout_width="match_parent"
+             android:layout_height="50dp" />
+
+
+        <GridLayout
+            android:layout_marginTop="5dp"
+            android:columnCount="2"
+            android:rowCount="3"
+            android:columnOrderPreserved="false"
+            android:alignmentMode="alignMargins"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.v7.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:backgroundTint="#6646EC"
+                android:id="@+id/smartphoneActivityProcessorCardViewId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:elevation="6dp"
+                app:cardElevation="12dp"
+                app:cardCornerRadius="30dp"
+                android:layout_margin="12dp"
+                >
+
+                <LinearLayout
+                    android:padding="15dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+
+                        android:src="@drawable/smartphone_activity_cpu_icon"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp" />
+
+                    <TextView
+                        android:text="Processor"
+                        android:layout_marginTop="12dp"
+                        android:textColor="#ffffff"
+                        android:textSize="19dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:backgroundTint="#6646EC"
+                android:id="@+id/smartphoneActivityRamCardViewId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:elevation="6dp"
+                app:cardElevation="12dp"
+                app:cardCornerRadius="30dp"
+                android:layout_margin="12dp"
+                >
+
+                <LinearLayout
+                    android:padding="15dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/smartphone_activity_ram_icon"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp" />
+
+                    <TextView
+                        android:text="RAM"
+                        android:layout_marginTop="12dp"
+                        android:textColor="#ffffff"
+                        android:textSize="19dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+
+            <android.support.v7.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:backgroundTint="#6646EC"
+                android:id="@+id/smartphoneActivityRomCardViewId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:elevation="6dp"
+                app:cardElevation="12dp"
+                app:cardCornerRadius="30dp"
+                android:layout_margin="12dp"
+                >
+
+                <LinearLayout
+                    android:padding="15dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/smartphone_activity_cpu_icon"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp" />
+
+                    <TextView
+                        android:text="ROM"
+                        android:layout_marginTop="12dp"
+                        android:textColor="#ffffff"
+                        android:textSize="19dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+
+
+
+            <android.support.v7.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:backgroundTint="#6646EC"
+                android:id="@+id/smartphoneActivityCameraCardViewId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:elevation="6dp"
+                app:cardElevation="12dp"
+                app:cardCornerRadius="30dp"
+                android:layout_margin="12dp"
+                >
+
+                <LinearLayout
+                    android:padding="15dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/smartphone_activity_camera_icon"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp" />
+
+                    <TextView
+                        android:text="Camera"
+                        android:layout_marginTop="12dp"
+                        android:textColor="#ffffff"
+                        android:textSize="19dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:backgroundTint="#6646EC"
+                android:id="@+id/smartphoneActivityBatteryCardViewId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:elevation="6dp"
+                app:cardElevation="12dp"
+                app:cardCornerRadius="30dp"
+                android:layout_margin="12dp"
+                >
+
+                <LinearLayout
+                    android:padding="15dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/smartphone_activity_battery_image"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp" />
+
+                    <TextView
+                        android:text="Battery"
+                        android:layout_marginTop="12dp"
+                        android:textColor="#ffffff"
+                        android:textSize="19dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+            <android.support.v7.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:backgroundTint="#6646EC"
+                android:id="@+id/smartphoneActivityDisplayCardViewId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:elevation="6dp"
+                app:cardElevation="12dp"
+                app:cardCornerRadius="30dp"
+                android:layout_margin="12dp"
+                >
+
+                <LinearLayout
+                    android:padding="15dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/smartphone_activity_display_icon"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp" />
+
+                    <TextView
+                        android:text="Display"
+                        android:layout_marginTop="12dp"
+                        android:textColor="#ffffff"
+                        android:textSize="19dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+        </GridLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

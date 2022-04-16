@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item app:showAsAction="never"
+        android:id="@+id/expert_video_section_menu_id"
+        android:title="Expert Videos">
+
+    </item>
+
+    <item app:showAsAction="never"
+        android:id="@+id/my_video_section_menu_id"
+        android:title="My Videos">
+
+    </item>
+
+    <item app:showAsAction="never"
+        android:id="@+id/tech_blogpost_section_menu_id"
+        android:title="see blogs">
+
+    </item>
+
+    <item app:showAsAction="never"
+        android:id="@+id/qr_code_section_menu_id"
+        android:title="Qr code scan">
+
+    </item>
+
+    <item app:showAsAction="never"
+        android:id="@+id/group_chat_menu_id"
+        android:title="Create Group">
+
+    </item>
+
+    <item app:showAsAction="always"
+        android:id="@+id/group_list_activity_menu_id"
+        android:icon="@drawable/chat"
+        android:iconTint="@color/white"
+        android:title="Group Chat">
+
+    </item>
+
+
+
+
+
+    <item app:showAsAction="never"
+        android:id="@+id/about_me_section_menu_id"
+        android:title="About me">
+
+    </item>
+
+    <item app:showAsAction="never"
+        android:id="@+id/logout_me_section_menu_id"
+        android:title="Logout">
+
+    </item>
+
+    <item app:showAsAction="never"
+        android:id="@+id/send_feedback_menu_id"
+        android:title="Send Feedback">
+
+    </item>
+
+
+
+
+
+</menu>

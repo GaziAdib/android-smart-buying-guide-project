@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FireBaseBackend.registration.RegistrationActivity"
+    android:background="#ffffff">
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="18dp"
+            android:layout_weight="1"
+            android:text="REGISTER"
+            android:padding="10dp"
+            android:textSize="30sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:background="@color/orange"
+            android:textAlignment="center" />
+        <EditText
+            android:background="@drawable/reg_edittext_style"
+            android:hint="Enter Username"
+            android:textAlignment="center"
+            android:id="@+id/regName"
+            android:layout_width="265dp"
+            android:layout_height="0dp"
+            android:layout_weight=".9"
+            android:layout_marginTop="200dp"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:inputType="textPersonName"/>
+        <EditText
+            android:background="@drawable/reg_edittext_style"
+            android:hint="Enter Email"
+            android:textAlignment="center"
+            android:id="@+id/regMail"
+            android:layout_margin="20dp"
+            android:layout_width="265dp"
+            android:layout_height="0dp"
+            android:layout_weight=".9"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:inputType="textEmailAddress"/>
+        <EditText
+            android:background="@drawable/reg_edittext_style"
+            android:hint="Enter Password"
+            android:textAlignment="center"
+            android:id="@+id/regPassword"
+            android:layout_width="265dp"
+            android:layout_height="0dp"
+            android:layout_weight=".9"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:inputType="textPassword"/>
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/regBtn"
+                android:layout_width="251dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_margin="30dp"
+                android:layout_marginEnd="130dp"
+                android:layout_weight="1"
+                android:background="@drawable/reg_btn_style"
+                android:text="Sign Up"
+                android:textAllCaps="false"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+            <ProgressBar
+                android:id="@+id/regProgressBar"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@+id/regBtn"
+                app:layout_constraintEnd_toEndOf="@+id/regBtn"
+                app:layout_constraintStart_toStartOf="@+id/regBtn"
+                app:layout_constraintTop_toTopOf="@+id/regBtn" />
+        </android.support.constraint.ConstraintLayout>
+        <TextView
+            android:id="@+id/AlreadyAcc"
+            android:layout_width="251dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:text="Have Account?"
+            android:textAlignment="center"
+            android:textColor="#5500ff"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+
+
+        <Button
+            android:id="@+id/logBtn"
+            android:layout_width="251dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:background="@drawable/reg_btn_style"
+            android:text="Login"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textAllCaps="false"
+            android:textColor="#ffffff"/>
+
+
+    </LinearLayout>
+-->
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="200dp"
+        android:background="@drawable/main_card_bg"
+        android:padding="5dp"
+        android:text="REGISTER"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/regName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.5" />
+
+    <EditText
+        android:background="@drawable/reg_edittext_style"
+        android:hint="Enter Username"
+        android:textAlignment="center"
+        android:id="@+id/regName"
+        android:layout_width="265dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="18dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/regMail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:background="@drawable/reg_edittext_style"
+        android:hint="Enetr Email"
+        android:id="@+id/regMail"
+        android:layout_width="265dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="18dp"
+        android:textAlignment="center"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/guideline"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:background="@drawable/reg_edittext_style"
+        android:hint="Enter Password"
+        android:id="@+id/regPassword"
+        android:layout_width="265dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="18dp"
+        android:textAlignment="center"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline" />
+
+    <Button
+        android:backgroundTint="@color/darkgreen"
+        android:id="@+id/regBtn"
+        android:layout_width="251dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="Sign Up"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.451"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/regPassword"
+        app:layout_constraintVertical_bias="0.106" />
+
+    <ProgressBar
+        android:id="@+id/regProgressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/regBtn"
+        app:layout_constraintEnd_toEndOf="@+id/regBtn"
+        app:layout_constraintStart_toStartOf="@+id/regBtn"
+        app:layout_constraintTop_toTopOf="@+id/regBtn" />
+
+    <TextView
+        android:id="@+id/AlreadyAcc"
+        android:layout_width="251dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:padding="10dp"
+        android:text="Have Account?"
+        android:textAlignment="center"
+        android:textColor="#5500ff"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/regBtn"
+        app:layout_constraintVertical_bias="0.247" />
+    <Button
+        android:backgroundTint="@color/intro_gradient_start_color"
+        android:id="@+id/logBtn"
+        android:layout_width="251dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="Login"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/regBtn" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="413dp"
+        android:layout_height="172dp"
+        android:layout_marginBottom="22dp"
+        app:layout_constraintBottom_toTopOf="@+id/regName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5"
+        app:srcCompat="@drawable/sign_up_here_icon" />
+
+
+</android.support.constraint.ConstraintLayout>

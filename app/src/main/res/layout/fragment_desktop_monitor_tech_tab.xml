@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#1D3EE6"
+    tools:context=".DesktopMonitorActivity.DesktopMonitorTabActivity">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <ImageView
+
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:background="@drawable/desktop_theme_image_for_monitor"
+                android:padding="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="240dp" />
+
+
+            <View
+
+                android:visibility="visible"
+                android:padding="5dp"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="3dp"/>
+
+            <TextView
+                android:fontFamily="serif"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#ffffff"
+                android:layout_margin="5dp"
+                android:backgroundTint="#0022AC"
+                android:background="@drawable/smartphone_activity_textview2_bg"
+                android:textAlignment="center"
+                android:padding="12dp"
+                android:text="Monitor Technologies"
+                android:layout_width="match_parent"
+                android:layout_height="50dp" />
+
+
+            <GridLayout
+                android:layout_marginTop="5dp"
+                android:columnCount="2"
+                android:rowCount="3"
+                android:columnOrderPreserved="false"
+                android:alignmentMode="alignMargins"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/resolution"
+                    android:backgroundTint="#0022AC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_monitor_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Resolution"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/panelType"
+                    android:backgroundTint="#0022AC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_monitor_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Panel Type"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/screenSize"
+                    android:backgroundTint="#0022AC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_monitor_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Screen Size"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/viewingAngle"
+                    android:backgroundTint="#0022AC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_monitor_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Viewing angle"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/responseTime"
+                    android:backgroundTint="#0022AC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_monitor_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Response Time"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/refreshRate"
+                    android:backgroundTint="#0022AC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_monitor_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Refresh Rate"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/gsyncFsync"
+                    android:backgroundTint="#0022AC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_monitor_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="G-Sync/F-Sync"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/featuresPorts"
+                    android:backgroundTint="#0022AC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_monitor_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Features"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+
+
+            </GridLayout>
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+
+</FrameLayout>

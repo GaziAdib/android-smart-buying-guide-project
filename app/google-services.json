@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155095504241",
+    "firebase_url": "https://smartbuyingguideproject.firebaseio.com",
+    "project_id": "smartbuyingguideproject",
+    "storage_bucket": "smartbuyingguideproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155095504241:android:a2b2f1741bf7a962",
+        "android_client_info": {
+          "package_name": "com.example.anabi.finalyearproject1try"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155095504241-lbga76kfquvp1vlg4o7p6h6m09ktaif8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anabi.finalyearproject1try",
+            "certificate_hash": "894b52041563e7bd9f6f4b532b5b80299b895fc1"
+          }
+        },
+        {
+          "client_id": "155095504241-8ejsg3dl2cqhgt0a7eg1s5721ksm5ct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxGD9DWk5Q3ADBhgwMmug7Vlf4g_HVSaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155095504241-8ejsg3dl2cqhgt0a7eg1s5721ksm5ct6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

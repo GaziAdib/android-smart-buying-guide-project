@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_phone"
+        android:icon="@drawable/ic_smartphone_with_a_smile"
+        android:title="@string/title_phone" />
+
+    <item
+        android:id="@+id/navigation_laptop"
+        android:icon="@drawable/ic_laptop"
+        android:title="@string/title_laptop" />
+
+    <item
+        android:id="@+id/navigation_desktop"
+        android:icon="@drawable/ic_desktop_pc"
+        android:title="@string/title_desktop" />
+    <item
+        android:id="@+id/navigation_television"
+        android:icon="@drawable/ic_television"
+        android:title="@string/title_tv" />
+
+</menu>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.anabi.finalyearproject1try">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/my_smart_app_main_logo"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@drawable/my_smart_app_main_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".GraphicsCardTechnology.GraphicsCardSepcialFeatures"></activity>
+        <activity android:name=".GroupChatWorld.GroupListOfGroups" />
+        <activity android:name=".GroupChatWorld.GroupChatActivity" />
+        <activity android:name=".YoutubeExpertReviewTvFour.ExpertTvFourDetails" />
+        <activity android:name=".YoutubeExpertReviewTvFour.ExpertTvFourMain" />
+        <activity android:name=".YoutubeExpertReviewTvThree.ExpertTvThreeDetails" />
+        <activity android:name=".YoutubeExpertReviewTvThree.ExpertTvThreeMain" />
+        <activity android:name=".YoutubeExpertReviewTvTwo.ExpertTvTwoDetails" />
+        <activity android:name=".YoutubeExpertReviewTvTwo.ExpertTvTwoMain" />
+        <activity android:name=".YoutubeExpertReviewTvOne.ExpertTvOneDetails" />
+        <activity android:name=".YoutubeExpertReviewTvOne.ExpertTvOneMain" />
+        <activity android:name=".FingerPrintAuthentication.FingerprintCheckSharedPreference" />
+        <activity android:name=".MouseTechnology.DesktopMouseDesignBuild" />
+        <activity android:name=".MouseTechnology.DesktopMouseDPi" />
+        <activity android:name=".MouseTechnology.DesktopMouseDurability" />
+        <activity android:name=".MouseTechnology.DesktopMouseGaming" />
+        <activity android:name=".MouseTechnology.DesktopMouseTypes" />
+        <activity android:name=".SendFeedbackActivity" />
+        <activity android:name=".AboutMeActivity" />
+        <activity android:name=".FireBaseBackend.registration.ForgetPasswordActivity" />
+
+        <service
+            android:name=".FirebasePushNotification.MyFirebaseMessagingService"
+            android:enabled="false"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".FirebasePushNotification.GettingDeviceTokenService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".QRCodeScanner.BarCodeScannerMain" />
+        <activity android:name=".FirebasePushNotification.NotificationMainActivity" />
+        <activity android:name=".BloggerApiPosts.BloggerMainActivity" />
+        <activity android:name=".BloggerApiPosts.BloggerDetailActivity" />
+        <activity android:name=".FingerPrintAuthentication.BiometricAuthActivity" />
+        <activity android:name=".FingerPrintAuthentication.FingerPrintAuthActivity" />
+        <activity android:name=".IntroSliderMaterial.IntroSliderActivity" />
+        <activity android:name=".FireBaseBackend.registration.LoginActivity" />
+        <activity android:name=".SmartphoneXiomiWebTabs.SmartphoneXiomiWebTabMain" />
+        <activity android:name=".SmartphoneOnePlusWebTabs.SmartphoneOnePlusWebTabMain" />
+        <activity android:name=".SmartphoneAppleWebTabs.SmartphoneAppleWebTabMain" />
+        <activity android:name=".SmartphoneHuaweiWebTabs.SmartphoneHuaweiWebTabMain" />
+        <activity android:name=".SmartphoneSamsungWebTabs.SamsungSmartphoneWebTabMain" />
+        <activity android:name=".SmartphoneAsusWebTabs.SmartphoneAsusWebTabMain" />
+        <activity android:name=".FireBaseBackend.activity.UpdateActivity" />
+        <activity android:name=".FireBaseBackend.activity.PostActivity" />
+        <activity android:name=".FireBaseBackend.activity.DetailsActivity" />
+        <activity android:name=".FireBaseBackend.activity.CommentActivity" />
+        <activity android:name=".FireBaseBackend.activity.DatabaseDashboardActivity" />
+        <activity android:name=".FireBaseBackend.registration.SetProfileActivity" />
+        <activity android:name=".FireBaseBackend.registration.RegistrationActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".CurrencyConverter" />
+        <activity android:name=".SecurityTv" />
+        <activity android:name=".SecurityDesktop" />
+        <activity android:name=".SecurityLaptop" />
+        <activity android:name=".SecuritySmartphone" />
+        <activity android:name=".SecurityPageContainer" />
+        <activity android:name=".YoutubeExpertReviewLaptopFour.ExpertLaptopFourMain" />
+        <activity android:name=".YoutubeExpertReviewLaptopFour.ExpertLaptopFourDetails" />
+        <activity android:name=".YoutubeExpertReviewLaptopThree.ExpertLaptopThreeMain" />
+        <activity android:name=".YoutubeExpertReviewLaptopThree.ExpertLaptopThreeDetails" />
+        <activity android:name=".YoutubeExpertReviewLaptopTwo.ExpertLaptopTwoMain" />
+        <activity android:name=".YoutubeExpertReviewLaptopTwo.ExpertLaptopTwoDetails" />
+        <activity android:name=".YoutubeExpertReviewLaptopOne.ExpertLaptopOneMain" />
+        <activity android:name=".YoutubeExpertReviewLaptopOne.ExpertLaptopOneDetails" />
+        <activity android:name=".YoutubeExpertReviewDesktopSix.ExpertDesktopSixDetails" />
+        <activity android:name=".YoutubeExpertReviewDesktopSix.ExpertDesktopSixMain" />
+        <activity android:name=".YoutubeExpertReviewDesktopFive.ExpertDesktopFiveMain" />
+        <activity android:name=".YoutubeExpertReviewDesktopFive.ExpertDesktopFiveDetails" />
+        <activity android:name=".YoutubeExpertReviewDesktopFour.ExpertDesktopFourMain" />
+        <activity android:name=".YoutubeExpertReviewDesktopFour.ExpertDesktopFourDetails" />
+        <activity android:name=".YoutubeExperReviewDesktopThree.ExpertDesktopThreeMain" />
+        <activity android:name=".YoutubeExperReviewDesktopThree.ExpertDesktopThreeDetails" />
+        <activity android:name=".YoutubeExpertReviewDesktopTwo.ExpertDesktopTwoDetails" />
+        <activity android:name=".YoutubeExpertReviewDesktopTwo.ExpertDesktopTwoMain" />
+        <activity android:name=".YoutubeExpertReviewDesktopOne.ExpertDesktopOneMain" />
+        <activity android:name=".YoutubeExpertReviewDesktopOne.ExpertDesktopOneDetails" />
+        <activity android:name=".YoutubeExpertReviewSmartphoneFour.ExpertSmartphoneFourMain" />
+        <activity android:name=".YoutubeExpertReviewSmartphoneFour.ExpertSmartphoneFourDetails" />
+        <activity android:name=".YoutubeExpertReviewSmartphoneThree.ExpertSmartphoneThreeMain" />
+        <activity android:name=".YoutubeExpertReviewSmartphoneThree.ExpertSmartphoneThreeDetails" />
+        <activity android:name=".YoutubeExpertReviewSmartphoneTwo.ExpertSmartphoneTwoMain" />
+        <activity android:name=".YoutubeExpertReviewSmartphoneTwo.ExpertSmartphoneTwoDetails" />
+        <activity android:name=".YoutubeExpertReviewSmartphoneOne.ExpertSmartphoneOneMain" />
+        <activity android:name=".YoutubeExpertReviewSmartphoneOne.ExpertSmartphoneOneDetails" />
+        <activity android:name=".YoutubeExpertActivityPageMain" />
+        <activity android:name=".OtherChannelYoutube.OtherDetails" />
+        <activity android:name=".OtherChannelYoutube.OtherYouTubeMain" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DashboardActivity" />
+        <activity android:name=".SmartphoneActivity" />
+        <activity android:name=".Smartphone_brandList_activity" />
+        <activity android:name=".DesktopActivity" />
+        <activity android:name=".DesktopProcessorTabActivity.DesktopProcessorActivity" />
+        <activity android:name=".DesktopMoboTabActivity.DesktopMoboActivity" />
+        <activity android:name=".DesktopMonitorActivity.DesktopMonitorTabActivity" />
+        <activity android:name=".DesktopRamActivity.DesktopRamActivity" />
+        <activity android:name=".DesktopGpuActivity.DesktopGpuActivity" />
+        <activity android:name=".DesktopHddActivity.DesktopHddActivity" />
+        <activity android:name=".DesktopKeyboardActivity.DesktopKeyboardActivity" />
+        <activity android:name=".DesktopMouseActivity.DesktopMouseActivity" />
+        <activity android:name=".SmartphoneTechActivityProcessor" />
+        <activity android:name=".SmartphoneTechRamActivity" />
+        <activity android:name=".SmartphoneTechRomActivity" />
+        <activity android:name=".SmartphoneTechCameraActivity" />
+        <activity android:name=".SmartphoneTechDisplayAcivity" />
+        <activity android:name=".SmartphoneTechBatteryActivity" />
+        <activity android:name=".SmartphoneBrandActivityWebview.SmartphoneBrandAppleWebview" />
+        <activity android:name=".LaptopActivity" />
+        <activity android:name=".TvActivity" />
+        <activity android:name=".TvActivityMain.TvTechActivity" />
+        <activity android:name=".TvActivityMain.TvBrandCategory" />
+        <activity android:name=".MonitorTechnology.MonitorResolution" />
+        <activity android:name=".MonitorTechnology.MonitorPanelType" />
+        <activity android:name=".MonitorTechnology.MonitorScreenSize" />
+        <activity android:name=".MonitorTechnology.MonitorViewingAngle" />
+        <activity android:name=".MonitorTechnology.MonitorResponseTime" />
+        <activity android:name=".MonitorTechnology.MonitorRefreshRate" />
+        <activity android:name=".MonitorTechnology.MonitorFeaturePorts" />
+        <activity android:name=".MonitorTechnology.MonitorGsyncFsync" />
+        <activity android:name=".MotherboardTechnology.MotherboardBasic" />
+        <activity android:name=".MotherboardTechnology.MotherboardFormFactor" />
+        <activity android:name=".MotherboardTechnology.MotherboardPlatform" />
+        <activity android:name=".MotherboardTechnology.MotherBoardChipset" />
+        <activity android:name=".MotherboardTechnology.MotherboardOverclock" />
+        <activity android:name=".MotherboardTechnology.MotherboardExtraFeature" />
+        <activity android:name=".MotherboardTechnology.MotherboardPorts" />
+        <activity android:name=".MotherboardTechnology.MotherboardBudget" />
+        <activity android:name=".MotherboardTechnology.MotherboardMultiGpu" />
+        <activity android:name=".ProcessorTechnology.DesktopProcessorTurboBoost" />
+        <activity android:name=".ProcessorTechnology.DesktopProcessorHyperThreading" />
+        <activity android:name=".ProcessorTechnology.DesktopProcessorSmartCache" />
+        <activity android:name=".ProcessorTechnology.DesktopProcessorIntegratedGraphics" />
+        <activity android:name=".ProcessorTechnology.DesktopProcessorOverClock" />
+        <activity android:name=".ProcessorTechnology.DesktopProcessorVirtualization" />
+        <activity android:name=".ProcessorTechnology.DesktopProcessorPurpose" />
+        <activity android:name=".ProcessorTechnology.DesktopProcessorSpecs" />
+        <activity android:name=".GraphicsCardTechnology.GraphicsCardBasics" />
+        <activity android:name=".GraphicsCardTechnology.GraphicsCardNvidiaOrAmdorIntel" />
+        <activity android:name=".GraphicsCardTechnology.GraphicsCardGpuCategory" />
+        <activity android:name=".GraphicsCardTechnology.GraphicsCardSpecs" />
+        <activity android:name=".RamTechnology.RamBasics" />
+        <activity android:name=".RamTechnology.RamSpecs" />
+        <activity android:name=".RamTechnology.RamFormFactor" />
+        <activity android:name=".RamTechnology.RamDDRVersions" />
+        <activity android:name=".RamTechnology.RamPurpose" />
+        <activity android:name=".RamTechnology.RamLatency" />
+        <activity android:name=".HDDSSDTechnology.HddSpec" />
+        <activity android:name=".HDDSSDTechnology.HddSize" />
+        <activity android:name=".HDDSSDTechnology.HddPurpose" />
+        <activity android:name=".HDDSSDTechnology.HddInternalExternal" />
+        <activity android:name=".HDDSSDTechnology.HddSsdCombination" />
+        <activity android:name=".HDDSSDTechnology.SsdExplained" />
+        <activity android:name=".KeyboardTechnology.KeyboardWorkType" />
+        <activity android:name=".KeyboardTechnology.KeyboardPurpose" />
+        <activity android:name=".KeyboardTechnology.KeyboardSwitch" />
+        <activity android:name=".KeyboardTechnology.KeyboardCompatibility" />
+        <activity android:name=".KeyboardTechnology.KeyboardDesign" />
+        <activity android:name=".KeyboardTechnology.KeyboardWireWireless" />
+        <activity android:name=".KeyboardTechnology.KeyboardExtraFunction" />
+        <activity android:name=".SmartphoneSelectionTechOrBrand" />
+        <activity android:name=".SonyTv.SonySmartTvWebView" />
+        <activity android:name=".SonyTv.Sony4kTvWebView" />
+        <activity android:name=".SonyTv.SonyOledTvWebView" />
+        <activity android:name=".SonyTv.SonyHdrTvWebView" />
+        <activity android:name=".SonyTv.SonyLedTvWebView" />
+        <activity android:name=".SonyTv.Sony8kTvWebView" />
+        <activity android:name=".SonyTv.SonyAllTvWebView" />
+        <activity android:name=".SamsungTv.SamsungQled8kTvWebView" />
+        <activity android:name=".SamsungTv.SamsungQled4kTvWebView" />
+        <activity android:name=".SamsungTv.SamsungUhdTvWebView" />
+        <activity android:name=".SamsungTv.SamsungPremiumUhdTvWebView" />
+        <activity android:name=".SamsungTv.SamsungFullHdOrHdTvWebView" />
+        <activity android:name=".SamsungTv.SamsungSmartTvWebView" />
+        <activity android:name=".SamsungTv.SamsungAllTvWebView" />
+        <activity android:name=".LgTv.Lg4kWebView" />
+        <activity android:name=".LgTv.LgOledTvWebView" />
+        <activity android:name=".LgTv.LgLedTvWebView" />
+        <activity android:name=".LgTv.LgSmartTvWebView" />
+        <activity android:name=".LgTv.LgAllTvWebView" />
+        <activity android:name=".TvTechnology.TvBasicsBlog" />
+        <activity android:name=".TvTechnology.TvDisplayTypesBlog" />
+        <activity android:name=".TvTechnology.TvScreenSizeBlog" />
+        <activity android:name=".TvTechnology.TvSmartTvBlog" />
+        <activity android:name=".TvTechnology.TvSoundQualityBlog" />
+        <activity android:name=".TvTechnology.TvConnectivityBlog" />
+        <activity android:name=".LaptopBrandSelection" />
+        <activity android:name=".YoutubeSupport.YoutubeMain" />
+        <activity android:name=".YoutubeSupport.DetailsActivity" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false"
+            tools:ignore="WrongManifestParent" />
+
+        <activity android:name=".DellLaptopWeb.DellLaptopMain" />
+        <activity android:name=".AsusLaptopWeb.AsusLaptopMain" />
+        <activity android:name=".AppleLaptopWeb.AppleLaptopMain" />
+        <activity android:name=".RazerLaptopWeb.RazerLaptopMain" />
+        <activity android:name=".MsiLaptopWeb.MsiLaptopMain" />
+        <activity android:name=".AcerLaptopWeb.AcerLaptopMain" />
+        <activity android:name=".HpLaptopWeb.HpLaptopMain" />
+        <activity android:name=".LaptopGuide.LaptopProcessorGuide" />
+        <activity android:name=".LaptopGuide.LaptopChoosePlatform" />
+        <activity android:name=".LaptopGuide.LaptopDisplayAndGraphicsGuide" />
+        <activity android:name=".LaptopGuide.LaptopScreenSizeGuide" />
+        <activity android:name=".LaptopGuide.LaptopStorageGuide" />
+        <activity android:name=".LaptopGuide.LaptopPortsGuide" />
+        <activity android:name=".LaptopGuide.LaptopRamGuide" />
+        <activity android:name=".LaptopChooseActivity" />
+    </application>
+
+</manifest>

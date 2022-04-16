@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FCFCFC"
+    tools:context=".TvActivityMain.TvTechActivity">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:gravity="center"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="250dp">
+
+                <com.smarteist.autoimageslider.SliderLayout
+                    android:id="@+id/imageSliderTvTech"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="top"/>
+
+
+
+
+            </LinearLayout>
+
+
+
+            <TextView
+                android:fontFamily="serif"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#fff767"
+                android:layout_margin="5dp"
+                android:backgroundTint="#3e32c6"
+                android:background="@drawable/smartphone_activity_textview2_bg"
+                android:textAlignment="center"
+                android:padding="10dp"
+                android:text="TV Technology"
+                android:layout_width="match_parent"
+                android:layout_height="50dp" />
+
+
+            <GridLayout
+                android:layout_marginTop="5dp"
+                android:columnCount="2"
+                android:rowCount="3"
+                android:columnOrderPreserved="false"
+                android:alignmentMode="alignMargins"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/tv_basic_cardviewId"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:backgroundTint="#3e2dff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="8dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:background="#5F00E4"
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/tv_select_tech_icon"
+                            android:layout_width="120dp"
+                            android:layout_height="120dp" />
+
+                        <View
+                            android:layout_marginTop="5dp"
+                            android:layout_gravity="center"
+                            android:background="#fff"
+                            android:layout_width="120dp"
+                            android:layout_height="1dp">
+
+                        </View>
+
+                        <TextView
+                            android:text="TV Basics"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#fff767"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/tv_displayTypes_cardviewId"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:backgroundTint="#3e2dff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="8dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:background="#5F00E4"
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/tv_select_tech_icon"
+                            android:layout_width="120dp"
+                            android:layout_height="120dp" />
+
+                        <View
+                            android:layout_marginTop="5dp"
+                            android:layout_gravity="center"
+                            android:background="#fff"
+                            android:layout_width="120dp"
+                            android:layout_height="1dp">
+
+                        </View>
+
+
+                        <TextView
+
+                            android:text="Display Types"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#fff767"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/tv_screenSize_cardviewId"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:backgroundTint="#3e2dff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="8dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:background="#5F00E4"
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/tv_select_tech_icon"
+                            android:layout_width="120dp"
+                            android:layout_height="120dp" />
+                        <View
+                            android:layout_marginTop="5dp"
+                            android:layout_gravity="center"
+                            android:background="#fff"
+                            android:layout_width="120dp"
+                            android:layout_height="1dp">
+
+                        </View>
+
+
+                        <TextView
+                            android:text="Screen Sizes"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#fff767"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/tv_smartTv_cardviewId"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:backgroundTint="#3e2dff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="8dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:background="#5F00E4"
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/tv_select_tech_icon"
+                            android:layout_width="120dp"
+                            android:layout_height="120dp" />
+
+                        <View
+                            android:layout_marginTop="5dp"
+                            android:layout_gravity="center"
+                            android:background="#fff"
+                            android:layout_width="120dp"
+                            android:layout_height="1dp">
+
+                        </View>
+
+
+                        <TextView
+                            android:text="Smart TVs"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#fff767"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/tv_soundQuality_cardviewId"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:backgroundTint="#3e2dff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="8dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:background="#5F00E4"
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/tv_select_tech_icon"
+                            android:layout_width="120dp"
+                            android:layout_height="120dp" />
+
+                        <View
+                            android:layout_marginTop="5dp"
+                            android:layout_gravity="center"
+                            android:background="#fff"
+                            android:layout_width="120dp"
+                            android:layout_height="1dp">
+
+                        </View>
+
+
+                        <TextView
+                            android:text="Sound Quality"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#fff767"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/tv_connectivity_cardviewId"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:backgroundTint="#3e2dff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="8dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:background="#5F00E4"
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/tv_select_tech_icon"
+                            android:layout_width="120dp"
+                            android:layout_height="120dp" />
+
+                        <View
+                            android:layout_marginTop="5dp"
+                            android:layout_gravity="center"
+                            android:background="#fff"
+                            android:layout_width="120dp"
+                            android:layout_height="1dp">
+
+                        </View>
+
+
+                        <TextView
+                            android:text="Connectivity"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#fff767"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+            </GridLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>

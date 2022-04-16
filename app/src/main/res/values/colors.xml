@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#7b4bff</color>
+    <color name="colorPrimaryDark">#6539ba</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="white_pressed">#DDD7D7</color>
+    <color name="half_black">#7E7D7D</color>
+    <color name="black_semi_transparent">#ffffff</color>
+
+    <color name="orange">#ff5500</color>
+    <color name="darkgreen">#149414</color>
+    <color name="lightgreen">#82ff82</color>
+    <color name="black">#000000</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+
+
+    <color name="intro_gradient_start_color">#4c84ff</color>
+    <color name="intro_gradient_end_color">#18a3fe</color>
+
+
+    <color name="intro_tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+
+
+
+</resources>
+

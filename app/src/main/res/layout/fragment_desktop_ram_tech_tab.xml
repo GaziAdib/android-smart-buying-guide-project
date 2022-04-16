@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#4215c9"
+    tools:context=".DesktopRamActivity.DesktopRamActivity">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <ImageView
+
+                android:layout_margin="5dp"
+                android:background="@drawable/desktop_ram_main_theme"
+                android:padding="5dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="220dp" />
+
+
+            <View
+
+                android:visibility="visible"
+                android:padding="5dp"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="3dp"/>
+
+            <TextView
+                android:elevation="10dp"
+                android:fontFamily="serif"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#ffffff"
+                android:layout_margin="5dp"
+                android:backgroundTint="#581eef"
+                android:background="@drawable/smartphone_activity_textview2_bg"
+                android:textAlignment="center"
+                android:padding="10dp"
+                android:text="RAM Technologies"
+                android:layout_width="match_parent"
+                android:layout_height="50dp" />
+
+
+            <GridLayout
+                android:layout_marginTop="5dp"
+                android:columnCount="2"
+                android:rowCount="3"
+                android:columnOrderPreserved="false"
+                android:alignmentMode="alignMargins"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.CardView
+
+                    android:id="@+id/ramBasicId"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:backgroundTint="#6435ff"
+                    android:clickable="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_ram_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Basic Q/A"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/ramSpecId"
+                    android:backgroundTint="#6435ff"
+                    android:clickable="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_ram_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Ram Specs"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/ramDdrId"
+                    android:backgroundTint="#6435ff"
+                    android:clickable="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_ram_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="DDR Version"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/ramFormFactorId"
+                    android:backgroundTint="#6435ff"
+                    android:clickable="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_ram_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+
+                        <TextView
+                            android:text="Form Factor"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/ramLatencyId"
+                    android:backgroundTint="#6435ff"
+                    android:clickable="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_ram_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+                        <TextView
+                            android:text="Latency"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+                <android.support.v7.widget.CardView
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:id="@+id/ramPurposeId"
+                    android:backgroundTint="#6435ff"
+                    android:clickable="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_rowWeight="1"
+                    android:elevation="6dp"
+                    app:cardElevation="12dp"
+                    app:cardCornerRadius="35dp"
+                    android:layout_margin="12dp"
+                    >
+
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/desktop_ram_main_icon_png"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp" />
+                        <TextView
+                            android:text="Purpose"
+                            android:layout_marginTop="12dp"
+                            android:textColor="#ffffff"
+                            android:textSize="19dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+
+
+
+
+            </GridLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+
+</FrameLayout>
